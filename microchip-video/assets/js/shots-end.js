@@ -393,14 +393,18 @@
       const s = W.newScene({ key: 1.3, rim: 1.6 });
       const cam = W.newCamera(30);
       const texes = [0, 1, 2, 3, 4, 5, 6, 7].map((k) => W.layerTex(k));
-      const mats = texes.map((tx, k) => new THREE.MeshStandardMaterial({ map: tx, metalness: k % 2 ? 0.2 : 0.7, roughness: 0.4, emissive: 0xffffff, emissiveMap: tx, emissiveIntensity: 0 }));
+      const mats = texes.map((tx) => new THREE.MeshLambertMaterial({ map: tx, emissive: 0xffffff, emissiveMap: tx, emissiveIntensity: 0.18 }));
       const N = 80,
         th = 0.045;
+      const hide = new THREE.MeshBasicMaterial({ visible: false });
+      const full = mats.map((m) => [m, m, m, hide, m, m]);
+      const sides = mats.map((m) => [m, m, hide, hide, m, m]);
       const slabs = [];
       for (let i = 0; i < N; i++) {
-        const sl = new THREE.Mesh(new THREE.BoxGeometry(3.2, th, 3.2), mats[i % 8]);
+        const sl = new THREE.Mesh(new THREE.BoxGeometry(3.2, th, 3.2), full[i % 8]);
         sl.position.y = i * th + th / 2;
         sl.rotation.y = (i % 3) * (Math.PI / 2);
+        sl.renderOrder = N - i; // top-down for early depth rejection
         s.add(sl);
         slabs.push(sl);
       }
@@ -413,8 +417,11 @@
       shot.update = (t) => {
         // the layers separate into an exploded view as they are counted
         const ex = sramp(t, tE - 0.2, shot.to);
-        slabs.forEach((sl, i) => (sl.position.y = i * th * (1 + ex * 2.2) + th / 2));
-        mats.forEach((m) => (m.emissiveIntensity = 0.12 * ex));
+        slabs.forEach((sl, i) => {
+          sl.position.y = i * th * (1 + ex * 2.2) + th / 2;
+          sl.material = ex > 0.001 || i === N - 1 ? full[i % 8] : sides[i % 8];
+        });
+        mats.forEach((m) => (m.emissiveIntensity = 0.18 + 0.14 * ex));
         const yaw = lerp(0.2, 1.2, sramp(t, shot.from, shot.to));
         W.aim(cam, [Math.sin(yaw) * 11, lerp(5.6, 7.2, ex), Math.cos(yaw) * 11], [0, lerp(1.6, 4.0, ex), 0]);
       };

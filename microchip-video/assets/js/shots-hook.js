@@ -619,16 +619,23 @@
       const s = W.newScene({ key: 1.4, rim: 1.5 });
       const cam = W.newCamera(30);
       const texes = [0, 1, 2, 3, 4, 5, 6, 7].map((k) => W.layerTex(k));
-      const mats = texes.map((tx, k) => new THREE.MeshStandardMaterial({ map: tx, metalness: k % 2 ? 0.2 : 0.7, roughness: 0.4, transparent: true, opacity: 1 }));
+      // matte patterned layers: Lambert keeps the full-frame close-ups cheap in software WebGL
+      const mats = texes.map((tx) => new THREE.MeshLambertMaterial({ map: tx, emissive: 0xffffff, emissiveMap: tx, emissiveIntensity: 0.18 }));
       const N = 80;
       const th = 0.045;
       const base = new THREE.Mesh(new THREE.BoxGeometry(3.2, 0.5, 3.2), W.mat.silicon);
       base.position.y = -0.25;
       s.add(base);
+      // box face groups: +x, -x, +y (top), -y (bottom), +z, -z. Buried slabs skip top and bottom:
+      // software WebGL shades every hidden face, so 80 stacked tops cost 80 full-screen passes.
+      const hide = new THREE.MeshBasicMaterial({ visible: false });
+      const full = mats.map((m) => [m, m, m, hide, m, m]);
+      const sides = mats.map((m) => [m, m, hide, hide, m, m]);
       const slabs = [];
       for (let i = 0; i < N; i++) {
-        const sl = new THREE.Mesh(new THREE.BoxGeometry(3.2, th, 3.2), mats[i % 8]);
+        const sl = new THREE.Mesh(new THREE.BoxGeometry(3.2, th, 3.2), full[i % 8]);
         sl.rotation.y = (i % 3) * (Math.PI / 2);
+        sl.renderOrder = N - i; // draw top-down so the hidden layers fail the depth test early
         s.add(sl);
         slabs.push(sl);
       }
@@ -651,10 +658,14 @@
           const ti = tStack + (i / N) * (tStackEnd - tStack);
           const k = oramp(t, ti, ti + 0.35);
           slabs[i].position.y = i * th + th / 2 + (1 - k) * 1.6;
-          slabs[i].material.opacity = 1;
           slabs[i].visible = k > 0.001;
+          slabs[i].userData.k = k;
           slabs[i].scale.setScalar(1);
         }
+        // only the highest landed slab (and any still falling) shows its top face
+        let top = -1;
+        for (let i = 0; i < N; i++) if (slabs[i].userData.k >= 1) top = i;
+        for (let i = 0; i < N; i++) slabs[i].material = i >= top ? full[i % 8] : sides[i % 8];
         const k = sramp(t, shot.from, tAlign);
         const a = sramp(t, tAlign - 0.3, tAlign + 1.6) * (1 - sramp(t, tSpeck - 1.2, tSpeck));
         const ang = lerp(0.9, 0.45, sramp(t, shot.from, shot.to));

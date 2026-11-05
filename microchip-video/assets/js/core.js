@@ -95,7 +95,7 @@
     draw(g, w, h);
     const tex = new THREE.CanvasTexture(cv);
     tex.colorSpace = opts.linear ? THREE.NoColorSpace : THREE.SRGBColorSpace;
-    tex.anisotropy = 4;
+    tex.anisotropy = (window.WORLD_OPTS && window.WORLD_OPTS.aniso) || 4;
     if (opts.repeat) {
       tex.wrapS = tex.wrapT = THREE.RepeatWrapping;
       tex.repeat.set(opts.repeat[0], opts.repeat[1]);
@@ -405,7 +405,8 @@
 
   let renderer, fadeEl;
   W.mount = function (canvas, layer, svg, fade) {
-    renderer = new THREE.WebGLRenderer({ canvas, antialias: true, preserveDrawingBuffer: true, powerPreference: "high-performance" });
+    const O = window.WORLD_OPTS || {};
+    renderer = new THREE.WebGLRenderer({ canvas, antialias: O.aa !== false, preserveDrawingBuffer: true, powerPreference: "high-performance" });
     renderer.setPixelRatio(1);
     renderer.setSize(W.WIDTH, W.HEIGHT, false);
     renderer.outputColorSpace = THREE.SRGBColorSpace;
