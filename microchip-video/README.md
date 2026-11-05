@@ -50,6 +50,11 @@ npx hyperframes check
 npx hyperframes render -o renders/how-microchips-are-made.mp4
 ```
 
+Without a GPU, Chrome renders WebGL in software (SwiftShader): the full film took about two hours on
+4 CPU cores. The delivered file was rendered in five one-minute segments
+(`hyperframes render --start 0 --end 60 …`) and joined with the full mixed audio by
+`script/join_segments.sh`, so a failed segment only costs that segment.
+
 Every 3D cue is tied to a narrated word (`World.cue("fab", "fifty")`), so editing the script and
 re-running the three steps above re-times the whole film.
 
