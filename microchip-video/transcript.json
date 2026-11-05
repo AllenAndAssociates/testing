@@ -1,0 +1,4220 @@
+[
+  {
+    "id": "w0",
+    "text": "Inside",
+    "start": 0.95,
+    "end": 1.5
+  },
+  {
+    "id": "w1",
+    "text": "a",
+    "start": 1.5,
+    "end": 1.612
+  },
+  {
+    "id": "w2",
+    "text": "modern",
+    "start": 1.612,
+    "end": 2.062
+  },
+  {
+    "id": "w3",
+    "text": "smartphone",
+    "start": 2.062,
+    "end": 2.7
+  },
+  {
+    "id": "w4",
+    "text": "are",
+    "start": 2.7,
+    "end": 2.875
+  },
+  {
+    "id": "w5",
+    "text": "sixty-two",
+    "start": 2.875,
+    "end": 3.425
+  },
+  {
+    "id": "w6",
+    "text": "microchips,",
+    "start": 3.425,
+    "end": 4.35
+  },
+  {
+    "id": "w7",
+    "text": "holding",
+    "start": 4.462,
+    "end": 4.825
+  },
+  {
+    "id": "w8",
+    "text": "about",
+    "start": 4.825,
+    "end": 5.175
+  },
+  {
+    "id": "w9",
+    "text": "ninety",
+    "start": 5.175,
+    "end": 5.662
+  },
+  {
+    "id": "w10",
+    "text": "billion",
+    "start": 5.662,
+    "end": 6.075
+  },
+  {
+    "id": "w11",
+    "text": "transistors",
+    "start": 6.075,
+    "end": 6.8
+  },
+  {
+    "id": "w12",
+    "text": "between",
+    "start": 6.8,
+    "end": 7.112
+  },
+  {
+    "id": "w13",
+    "text": "them.",
+    "start": 7.112,
+    "end": 7.8
+  },
+  {
+    "id": "w14",
+    "text": "Each",
+    "start": 7.962,
+    "end": 8.225
+  },
+  {
+    "id": "w15",
+    "text": "transistor",
+    "start": 8.225,
+    "end": 9.012
+  },
+  {
+    "id": "w16",
+    "text": "is",
+    "start": 9.012,
+    "end": 9.15
+  },
+  {
+    "id": "w17",
+    "text": "a",
+    "start": 9.15,
+    "end": 9.275
+  },
+  {
+    "id": "w18",
+    "text": "switch",
+    "start": 9.275,
+    "end": 9.662
+  },
+  {
+    "id": "w19",
+    "text": "so",
+    "start": 9.662,
+    "end": 9.9
+  },
+  {
+    "id": "w20",
+    "text": "small",
+    "start": 9.9,
+    "end": 10.375
+  },
+  {
+    "id": "w21",
+    "text": "that",
+    "start": 10.375,
+    "end": 10.562
+  },
+  {
+    "id": "w22",
+    "text": "more",
+    "start": 10.562,
+    "end": 10.787
+  },
+  {
+    "id": "w23",
+    "text": "than",
+    "start": 10.787,
+    "end": 10.9
+  },
+  {
+    "id": "w24",
+    "text": "a",
+    "start": 10.9,
+    "end": 11.025
+  },
+  {
+    "id": "w25",
+    "text": "thousand",
+    "start": 11.025,
+    "end": 11.575
+  },
+  {
+    "id": "w26",
+    "text": "would",
+    "start": 11.575,
+    "end": 11.762
+  },
+  {
+    "id": "w27",
+    "text": "fit",
+    "start": 11.762,
+    "end": 12.012
+  },
+  {
+    "id": "w28",
+    "text": "side",
+    "start": 12.012,
+    "end": 12.375
+  },
+  {
+    "id": "w29",
+    "text": "by",
+    "start": 12.375,
+    "end": 12.588
+  },
+  {
+    "id": "w30",
+    "text": "side",
+    "start": 12.588,
+    "end": 12.975
+  },
+  {
+    "id": "w31",
+    "text": "across",
+    "start": 12.975,
+    "end": 13.325
+  },
+  {
+    "id": "w32",
+    "text": "a",
+    "start": 13.325,
+    "end": 13.438
+  },
+  {
+    "id": "w33",
+    "text": "single",
+    "start": 13.438,
+    "end": 13.8
+  },
+  {
+    "id": "w34",
+    "text": "human",
+    "start": 13.8,
+    "end": 14.15
+  },
+  {
+    "id": "w35",
+    "text": "hair.",
+    "start": 14.15,
+    "end": 14.875
+  },
+  {
+    "id": "w36",
+    "text": "None",
+    "start": 15.05,
+    "end": 15.262
+  },
+  {
+    "id": "w37",
+    "text": "of",
+    "start": 15.262,
+    "end": 15.338
+  },
+  {
+    "id": "w38",
+    "text": "them",
+    "start": 15.338,
+    "end": 15.525
+  },
+  {
+    "id": "w39",
+    "text": "were",
+    "start": 15.525,
+    "end": 15.675
+  },
+  {
+    "id": "w40",
+    "text": "assembled.",
+    "start": 15.675,
+    "end": 16.525
+  },
+  {
+    "id": "w41",
+    "text": "They",
+    "start": 16.625,
+    "end": 16.738
+  },
+  {
+    "id": "w42",
+    "text": "were",
+    "start": 16.738,
+    "end": 16.85
+  },
+  {
+    "id": "w43",
+    "text": "printed",
+    "start": 16.85,
+    "end": 17.2
+  },
+  {
+    "id": "w44",
+    "text": "onto",
+    "start": 17.2,
+    "end": 17.488
+  },
+  {
+    "id": "w45",
+    "text": "silicon,",
+    "start": 17.488,
+    "end": 18.15
+  },
+  {
+    "id": "w46",
+    "text": "with",
+    "start": 18.225,
+    "end": 18.4
+  },
+  {
+    "id": "w47",
+    "text": "light.",
+    "start": 18.4,
+    "end": 18.975
+  },
+  {
+    "id": "w48",
+    "text": "Here's",
+    "start": 19.113,
+    "end": 19.425
+  },
+  {
+    "id": "w49",
+    "text": "how.",
+    "start": 19.425,
+    "end": 20.025
+  },
+  {
+    "id": "w50",
+    "text": "Open",
+    "start": 21.3,
+    "end": 21.575
+  },
+  {
+    "id": "w51",
+    "text": "a",
+    "start": 21.575,
+    "end": 21.688
+  },
+  {
+    "id": "w52",
+    "text": "desktop",
+    "start": 21.688,
+    "end": 22.15
+  },
+  {
+    "id": "w53",
+    "text": "computer",
+    "start": 22.15,
+    "end": 22.688
+  },
+  {
+    "id": "w54",
+    "text": "and",
+    "start": 22.688,
+    "end": 22.825
+  },
+  {
+    "id": "w55",
+    "text": "lift",
+    "start": 22.825,
+    "end": 23.05
+  },
+  {
+    "id": "w56",
+    "text": "the",
+    "start": 23.05,
+    "end": 23.175
+  },
+  {
+    "id": "w57",
+    "text": "lid",
+    "start": 23.175,
+    "end": 23.4
+  },
+  {
+    "id": "w58",
+    "text": "off",
+    "start": 23.4,
+    "end": 23.563
+  },
+  {
+    "id": "w59",
+    "text": "its",
+    "start": 23.563,
+    "end": 23.675
+  },
+  {
+    "id": "w60",
+    "text": "processor.",
+    "start": 23.675,
+    "end": 24.7
+  },
+  {
+    "id": "w61",
+    "text": "Underneath",
+    "start": 24.825,
+    "end": 25.375
+  },
+  {
+    "id": "w62",
+    "text": "is",
+    "start": 25.375,
+    "end": 25.488
+  },
+  {
+    "id": "w63",
+    "text": "a",
+    "start": 25.488,
+    "end": 25.588
+  },
+  {
+    "id": "w64",
+    "text": "silicon",
+    "start": 25.588,
+    "end": 26.1
+  },
+  {
+    "id": "w65",
+    "text": "die",
+    "start": 26.1,
+    "end": 26.35
+  },
+  {
+    "id": "w66",
+    "text": "smaller",
+    "start": 26.35,
+    "end": 26.812
+  },
+  {
+    "id": "w67",
+    "text": "than",
+    "start": 26.812,
+    "end": 26.913
+  },
+  {
+    "id": "w68",
+    "text": "a",
+    "start": 26.913,
+    "end": 26.975
+  },
+  {
+    "id": "w69",
+    "text": "postage",
+    "start": 26.975,
+    "end": 27.45
+  },
+  {
+    "id": "w70",
+    "text": "stamp,",
+    "start": 27.45,
+    "end": 28.025
+  },
+  {
+    "id": "w71",
+    "text": "carrying",
+    "start": 28.125,
+    "end": 28.5
+  },
+  {
+    "id": "w72",
+    "text": "twenty-six",
+    "start": 28.5,
+    "end": 29.062
+  },
+  {
+    "id": "w73",
+    "text": "billion",
+    "start": 29.062,
+    "end": 29.425
+  },
+  {
+    "id": "w74",
+    "text": "transistors,",
+    "start": 29.425,
+    "end": 30.325
+  },
+  {
+    "id": "w75",
+    "text": "organized",
+    "start": 30.425,
+    "end": 31.013
+  },
+  {
+    "id": "w76",
+    "text": "into",
+    "start": 31.013,
+    "end": 31.2
+  },
+  {
+    "id": "w77",
+    "text": "twenty-four",
+    "start": 31.2,
+    "end": 31.7
+  },
+  {
+    "id": "w78",
+    "text": "cores.",
+    "start": 31.7,
+    "end": 32.525
+  },
+  {
+    "id": "w79",
+    "text": "Dive",
+    "start": 32.663,
+    "end": 32.938
+  },
+  {
+    "id": "w80",
+    "text": "into",
+    "start": 32.938,
+    "end": 33.15
+  },
+  {
+    "id": "w81",
+    "text": "one",
+    "start": 33.15,
+    "end": 33.375
+  },
+  {
+    "id": "w82",
+    "text": "core,",
+    "start": 33.375,
+    "end": 33.875
+  },
+  {
+    "id": "w83",
+    "text": "and",
+    "start": 33.95,
+    "end": 34.062
+  },
+  {
+    "id": "w84",
+    "text": "you",
+    "start": 34.062,
+    "end": 34.163
+  },
+  {
+    "id": "w85",
+    "text": "fall",
+    "start": 34.163,
+    "end": 34.4
+  },
+  {
+    "id": "w86",
+    "text": "through",
+    "start": 34.4,
+    "end": 34.6
+  },
+  {
+    "id": "w87",
+    "text": "a",
+    "start": 34.6,
+    "end": 34.713
+  },
+  {
+    "id": "w88",
+    "text": "city",
+    "start": 34.713,
+    "end": 34.938
+  },
+  {
+    "id": "w89",
+    "text": "of",
+    "start": 34.938,
+    "end": 35.05
+  },
+  {
+    "id": "w90",
+    "text": "copper",
+    "start": 35.05,
+    "end": 35.425
+  },
+  {
+    "id": "w91",
+    "text": "wiring,",
+    "start": 35.425,
+    "end": 36.075
+  },
+  {
+    "id": "w92",
+    "text": "seventeen",
+    "start": 36.188,
+    "end": 36.775
+  },
+  {
+    "id": "w93",
+    "text": "layers",
+    "start": 36.775,
+    "end": 37.125
+  },
+  {
+    "id": "w94",
+    "text": "deep.",
+    "start": 37.125,
+    "end": 37.8
+  },
+  {
+    "id": "w95",
+    "text": "Fine",
+    "start": 37.95,
+    "end": 38.275
+  },
+  {
+    "id": "w96",
+    "text": "local",
+    "start": 38.275,
+    "end": 38.625
+  },
+  {
+    "id": "w97",
+    "text": "wires",
+    "start": 38.625,
+    "end": 39.038
+  },
+  {
+    "id": "w98",
+    "text": "at",
+    "start": 39.038,
+    "end": 39.112
+  },
+  {
+    "id": "w99",
+    "text": "the",
+    "start": 39.112,
+    "end": 39.2
+  },
+  {
+    "id": "w100",
+    "text": "bottom,",
+    "start": 39.2,
+    "end": 39.775
+  },
+  {
+    "id": "w101",
+    "text": "wide",
+    "start": 39.888,
+    "end": 40.25
+  },
+  {
+    "id": "w102",
+    "text": "global",
+    "start": 40.25,
+    "end": 40.625
+  },
+  {
+    "id": "w103",
+    "text": "highways",
+    "start": 40.625,
+    "end": 41.062
+  },
+  {
+    "id": "w104",
+    "text": "at",
+    "start": 41.062,
+    "end": 41.138
+  },
+  {
+    "id": "w105",
+    "text": "the",
+    "start": 41.138,
+    "end": 41.225
+  },
+  {
+    "id": "w106",
+    "text": "top.",
+    "start": 41.225,
+    "end": 41.9
+  },
+  {
+    "id": "w107",
+    "text": "And",
+    "start": 42.0,
+    "end": 42.163
+  },
+  {
+    "id": "w108",
+    "text": "beneath",
+    "start": 42.163,
+    "end": 42.5
+  },
+  {
+    "id": "w109",
+    "text": "it",
+    "start": 42.5,
+    "end": 42.725
+  },
+  {
+    "id": "w110",
+    "text": "all",
+    "start": 42.725,
+    "end": 43.075
+  },
+  {
+    "id": "w111",
+    "text": "are",
+    "start": 43.075,
+    "end": 43.188
+  },
+  {
+    "id": "w112",
+    "text": "the",
+    "start": 43.188,
+    "end": 43.275
+  },
+  {
+    "id": "w113",
+    "text": "transistors",
+    "start": 43.275,
+    "end": 43.975
+  },
+  {
+    "id": "w114",
+    "text": "themselves:",
+    "start": 43.975,
+    "end": 44.9
+  },
+  {
+    "id": "w115",
+    "text": "fins",
+    "start": 45.038,
+    "end": 45.362
+  },
+  {
+    "id": "w116",
+    "text": "of",
+    "start": 45.362,
+    "end": 45.45
+  },
+  {
+    "id": "w117",
+    "text": "silicon",
+    "start": 45.45,
+    "end": 46.013
+  },
+  {
+    "id": "w118",
+    "text": "just",
+    "start": 46.013,
+    "end": 46.338
+  },
+  {
+    "id": "w119",
+    "text": "six",
+    "start": 46.338,
+    "end": 46.675
+  },
+  {
+    "id": "w120",
+    "text": "nanometers",
+    "start": 46.675,
+    "end": 47.275
+  },
+  {
+    "id": "w121",
+    "text": "wide.",
+    "start": 47.275,
+    "end": 47.925
+  },
+  {
+    "id": "w122",
+    "text": "To",
+    "start": 49.2,
+    "end": 49.3
+  },
+  {
+    "id": "w123",
+    "text": "build",
+    "start": 49.3,
+    "end": 49.55
+  },
+  {
+    "id": "w124",
+    "text": "that,",
+    "start": 49.55,
+    "end": 49.85
+  },
+  {
+    "id": "w125",
+    "text": "a",
+    "start": 49.925,
+    "end": 50.037
+  },
+  {
+    "id": "w126",
+    "text": "factory",
+    "start": 50.037,
+    "end": 50.587
+  },
+  {
+    "id": "w127",
+    "text": "stacks",
+    "start": 50.587,
+    "end": 51.012
+  },
+  {
+    "id": "w128",
+    "text": "about",
+    "start": 51.012,
+    "end": 51.312
+  },
+  {
+    "id": "w129",
+    "text": "eighty",
+    "start": 51.312,
+    "end": 51.637
+  },
+  {
+    "id": "w130",
+    "text": "patterned",
+    "start": 51.637,
+    "end": 52.05
+  },
+  {
+    "id": "w131",
+    "text": "layers,",
+    "start": 52.05,
+    "end": 52.8
+  },
+  {
+    "id": "w132",
+    "text": "each",
+    "start": 52.938,
+    "end": 53.225
+  },
+  {
+    "id": "w133",
+    "text": "one",
+    "start": 53.225,
+    "end": 53.45
+  },
+  {
+    "id": "w134",
+    "text": "aligned",
+    "start": 53.45,
+    "end": 53.875
+  },
+  {
+    "id": "w135",
+    "text": "to",
+    "start": 53.875,
+    "end": 53.962
+  },
+  {
+    "id": "w136",
+    "text": "the",
+    "start": 53.962,
+    "end": 54.075
+  },
+  {
+    "id": "w137",
+    "text": "layer",
+    "start": 54.075,
+    "end": 54.45
+  },
+  {
+    "id": "w138",
+    "text": "beneath",
+    "start": 54.45,
+    "end": 54.8
+  },
+  {
+    "id": "w139",
+    "text": "it",
+    "start": 54.8,
+    "end": 54.95
+  },
+  {
+    "id": "w140",
+    "text": "within",
+    "start": 54.95,
+    "end": 55.188
+  },
+  {
+    "id": "w141",
+    "text": "a",
+    "start": 55.188,
+    "end": 55.25
+  },
+  {
+    "id": "w142",
+    "text": "few",
+    "start": 55.25,
+    "end": 55.475
+  },
+  {
+    "id": "w143",
+    "text": "nanometers.",
+    "start": 55.475,
+    "end": 56.625
+  },
+  {
+    "id": "w144",
+    "text": "The",
+    "start": 56.762,
+    "end": 56.9
+  },
+  {
+    "id": "w145",
+    "text": "recipe",
+    "start": 56.9,
+    "end": 57.387
+  },
+  {
+    "id": "w146",
+    "text": "runs",
+    "start": 57.387,
+    "end": 57.775
+  },
+  {
+    "id": "w147",
+    "text": "to",
+    "start": 57.775,
+    "end": 57.9
+  },
+  {
+    "id": "w148",
+    "text": "roughly",
+    "start": 57.9,
+    "end": 58.287
+  },
+  {
+    "id": "w149",
+    "text": "nine",
+    "start": 58.287,
+    "end": 58.6
+  },
+  {
+    "id": "w150",
+    "text": "hundred",
+    "start": 58.6,
+    "end": 58.987
+  },
+  {
+    "id": "w151",
+    "text": "and",
+    "start": 58.987,
+    "end": 59.1
+  },
+  {
+    "id": "w152",
+    "text": "forty",
+    "start": 59.1,
+    "end": 59.425
+  },
+  {
+    "id": "w153",
+    "text": "steps,",
+    "start": 59.425,
+    "end": 60.075
+  },
+  {
+    "id": "w154",
+    "text": "and",
+    "start": 60.15,
+    "end": 60.275
+  },
+  {
+    "id": "w155",
+    "text": "takes",
+    "start": 60.275,
+    "end": 60.662
+  },
+  {
+    "id": "w156",
+    "text": "three",
+    "start": 60.662,
+    "end": 60.9
+  },
+  {
+    "id": "w157",
+    "text": "months.",
+    "start": 60.9,
+    "end": 61.7
+  },
+  {
+    "id": "w158",
+    "text": "A",
+    "start": 61.837,
+    "end": 61.975
+  },
+  {
+    "id": "w159",
+    "text": "single",
+    "start": 61.975,
+    "end": 62.35
+  },
+  {
+    "id": "w160",
+    "text": "speck",
+    "start": 62.35,
+    "end": 62.612
+  },
+  {
+    "id": "w161",
+    "text": "of",
+    "start": 62.612,
+    "end": 62.737
+  },
+  {
+    "id": "w162",
+    "text": "dust",
+    "start": 62.737,
+    "end": 63.175
+  },
+  {
+    "id": "w163",
+    "text": "in",
+    "start": 63.175,
+    "end": 63.262
+  },
+  {
+    "id": "w164",
+    "text": "the",
+    "start": 63.262,
+    "end": 63.35
+  },
+  {
+    "id": "w165",
+    "text": "wrong",
+    "start": 63.35,
+    "end": 63.675
+  },
+  {
+    "id": "w166",
+    "text": "place",
+    "start": 63.675,
+    "end": 64.237
+  },
+  {
+    "id": "w167",
+    "text": "can",
+    "start": 64.237,
+    "end": 64.462
+  },
+  {
+    "id": "w168",
+    "text": "ruin",
+    "start": 64.462,
+    "end": 64.8
+  },
+  {
+    "id": "w169",
+    "text": "a",
+    "start": 64.8,
+    "end": 64.912
+  },
+  {
+    "id": "w170",
+    "text": "chip.",
+    "start": 64.912,
+    "end": 65.475
+  },
+  {
+    "id": "w171",
+    "text": "Yet",
+    "start": 66.75,
+    "end": 66.9
+  },
+  {
+    "id": "w172",
+    "text": "almost",
+    "start": 66.9,
+    "end": 67.325
+  },
+  {
+    "id": "w173",
+    "text": "every",
+    "start": 67.325,
+    "end": 67.625
+  },
+  {
+    "id": "w174",
+    "text": "layer",
+    "start": 67.625,
+    "end": 68.0
+  },
+  {
+    "id": "w175",
+    "text": "follows",
+    "start": 68.0,
+    "end": 68.337
+  },
+  {
+    "id": "w176",
+    "text": "the",
+    "start": 68.337,
+    "end": 68.438
+  },
+  {
+    "id": "w177",
+    "text": "same",
+    "start": 68.438,
+    "end": 68.787
+  },
+  {
+    "id": "w178",
+    "text": "short",
+    "start": 68.787,
+    "end": 69.05
+  },
+  {
+    "id": "w179",
+    "text": "recipe.",
+    "start": 69.05,
+    "end": 69.875
+  },
+  {
+    "id": "w180",
+    "text": "First,",
+    "start": 70.025,
+    "end": 70.4
+  },
+  {
+    "id": "w181",
+    "text": "coat",
+    "start": 70.475,
+    "end": 70.662
+  },
+  {
+    "id": "w182",
+    "text": "the",
+    "start": 70.662,
+    "end": 70.75
+  },
+  {
+    "id": "w183",
+    "text": "wafer",
+    "start": 70.75,
+    "end": 71.125
+  },
+  {
+    "id": "w184",
+    "text": "in",
+    "start": 71.125,
+    "end": 71.212
+  },
+  {
+    "id": "w185",
+    "text": "a",
+    "start": 71.212,
+    "end": 71.325
+  },
+  {
+    "id": "w186",
+    "text": "thin,",
+    "start": 71.325,
+    "end": 71.675
+  },
+  {
+    "id": "w187",
+    "text": "insulating",
+    "start": 71.75,
+    "end": 72.362
+  },
+  {
+    "id": "w188",
+    "text": "film",
+    "start": 72.362,
+    "end": 72.688
+  },
+  {
+    "id": "w189",
+    "text": "of",
+    "start": 72.688,
+    "end": 72.812
+  },
+  {
+    "id": "w190",
+    "text": "silicon",
+    "start": 72.812,
+    "end": 73.275
+  },
+  {
+    "id": "w191",
+    "text": "dioxide.",
+    "start": 73.275,
+    "end": 74.3
+  },
+  {
+    "id": "w192",
+    "text": "Spin",
+    "start": 74.45,
+    "end": 74.762
+  },
+  {
+    "id": "w193",
+    "text": "on",
+    "start": 74.762,
+    "end": 74.862
+  },
+  {
+    "id": "w194",
+    "text": "a",
+    "start": 74.862,
+    "end": 74.95
+  },
+  {
+    "id": "w195",
+    "text": "light-sensitive",
+    "start": 74.95,
+    "end": 75.625
+  },
+  {
+    "id": "w196",
+    "text": "coating,",
+    "start": 75.625,
+    "end": 76.025
+  },
+  {
+    "id": "w197",
+    "text": "called",
+    "start": 76.075,
+    "end": 76.362
+  },
+  {
+    "id": "w198",
+    "text": "photoresist.",
+    "start": 76.362,
+    "end": 77.45
+  },
+  {
+    "id": "w199",
+    "text": "Shine",
+    "start": 77.6,
+    "end": 77.9
+  },
+  {
+    "id": "w200",
+    "text": "ultraviolet",
+    "start": 77.9,
+    "end": 78.55
+  },
+  {
+    "id": "w201",
+    "text": "light",
+    "start": 78.55,
+    "end": 78.825
+  },
+  {
+    "id": "w202",
+    "text": "through",
+    "start": 78.825,
+    "end": 78.987
+  },
+  {
+    "id": "w203",
+    "text": "a",
+    "start": 78.987,
+    "end": 79.05
+  },
+  {
+    "id": "w204",
+    "text": "stencil,",
+    "start": 79.05,
+    "end": 79.525
+  },
+  {
+    "id": "w205",
+    "text": "the",
+    "start": 79.575,
+    "end": 79.675
+  },
+  {
+    "id": "w206",
+    "text": "photomask.",
+    "start": 79.675,
+    "end": 80.625
+  },
+  {
+    "id": "w207",
+    "text": "Wash",
+    "start": 80.762,
+    "end": 81.062
+  },
+  {
+    "id": "w208",
+    "text": "away",
+    "start": 81.062,
+    "end": 81.262
+  },
+  {
+    "id": "w209",
+    "text": "the",
+    "start": 81.262,
+    "end": 81.35
+  },
+  {
+    "id": "w210",
+    "text": "resist",
+    "start": 81.35,
+    "end": 81.75
+  },
+  {
+    "id": "w211",
+    "text": "the",
+    "start": 81.75,
+    "end": 81.85
+  },
+  {
+    "id": "w212",
+    "text": "light",
+    "start": 81.85,
+    "end": 82.05
+  },
+  {
+    "id": "w213",
+    "text": "touched,",
+    "start": 82.05,
+    "end": 82.425
+  },
+  {
+    "id": "w214",
+    "text": "leaving",
+    "start": 82.475,
+    "end": 82.762
+  },
+  {
+    "id": "w215",
+    "text": "a",
+    "start": 82.762,
+    "end": 82.825
+  },
+  {
+    "id": "w216",
+    "text": "pattern.",
+    "start": 82.825,
+    "end": 83.525
+  },
+  {
+    "id": "w217",
+    "text": "Etch",
+    "start": 83.637,
+    "end": 83.875
+  },
+  {
+    "id": "w218",
+    "text": "that",
+    "start": 83.875,
+    "end": 84.025
+  },
+  {
+    "id": "w219",
+    "text": "pattern",
+    "start": 84.025,
+    "end": 84.475
+  },
+  {
+    "id": "w220",
+    "text": "down",
+    "start": 84.475,
+    "end": 84.737
+  },
+  {
+    "id": "w221",
+    "text": "into",
+    "start": 84.737,
+    "end": 84.912
+  },
+  {
+    "id": "w222",
+    "text": "the",
+    "start": 84.912,
+    "end": 85.025
+  },
+  {
+    "id": "w223",
+    "text": "oxide.",
+    "start": 85.025,
+    "end": 85.8
+  },
+  {
+    "id": "w224",
+    "text": "Strip",
+    "start": 85.912,
+    "end": 86.188
+  },
+  {
+    "id": "w225",
+    "text": "off",
+    "start": 86.188,
+    "end": 86.362
+  },
+  {
+    "id": "w226",
+    "text": "the",
+    "start": 86.362,
+    "end": 86.45
+  },
+  {
+    "id": "w227",
+    "text": "leftover",
+    "start": 86.45,
+    "end": 87.0
+  },
+  {
+    "id": "w228",
+    "text": "resist.",
+    "start": 87.0,
+    "end": 87.725
+  },
+  {
+    "id": "w229",
+    "text": "Flood",
+    "start": 87.862,
+    "end": 88.112
+  },
+  {
+    "id": "w230",
+    "text": "the",
+    "start": 88.112,
+    "end": 88.2
+  },
+  {
+    "id": "w231",
+    "text": "trenches",
+    "start": 88.2,
+    "end": 88.612
+  },
+  {
+    "id": "w232",
+    "text": "with",
+    "start": 88.612,
+    "end": 88.775
+  },
+  {
+    "id": "w233",
+    "text": "copper.",
+    "start": 88.775,
+    "end": 89.5
+  },
+  {
+    "id": "w234",
+    "text": "Then",
+    "start": 89.637,
+    "end": 89.887
+  },
+  {
+    "id": "w235",
+    "text": "polish",
+    "start": 89.887,
+    "end": 90.25
+  },
+  {
+    "id": "w236",
+    "text": "the",
+    "start": 90.25,
+    "end": 90.362
+  },
+  {
+    "id": "w237",
+    "text": "surface",
+    "start": 90.362,
+    "end": 90.8
+  },
+  {
+    "id": "w238",
+    "text": "perfectly",
+    "start": 90.8,
+    "end": 91.262
+  },
+  {
+    "id": "w239",
+    "text": "flat,",
+    "start": 91.262,
+    "end": 91.625
+  },
+  {
+    "id": "w240",
+    "text": "until",
+    "start": 91.662,
+    "end": 91.95
+  },
+  {
+    "id": "w241",
+    "text": "only",
+    "start": 91.95,
+    "end": 92.25
+  },
+  {
+    "id": "w242",
+    "text": "copper",
+    "start": 92.25,
+    "end": 92.625
+  },
+  {
+    "id": "w243",
+    "text": "wires,",
+    "start": 92.625,
+    "end": 93.125
+  },
+  {
+    "id": "w244",
+    "text": "set",
+    "start": 93.212,
+    "end": 93.387
+  },
+  {
+    "id": "w245",
+    "text": "in",
+    "start": 93.387,
+    "end": 93.525
+  },
+  {
+    "id": "w246",
+    "text": "glass,",
+    "start": 93.525,
+    "end": 93.925
+  },
+  {
+    "id": "w247",
+    "text": "remain.",
+    "start": 93.975,
+    "end": 94.75
+  },
+  {
+    "id": "w248",
+    "text": "One",
+    "start": 94.925,
+    "end": 95.2
+  },
+  {
+    "id": "w249",
+    "text": "layer,",
+    "start": 95.2,
+    "end": 95.55
+  },
+  {
+    "id": "w250",
+    "text": "done.",
+    "start": 95.6,
+    "end": 96.15
+  },
+  {
+    "id": "w251",
+    "text": "Swap",
+    "start": 96.7,
+    "end": 96.962
+  },
+  {
+    "id": "w252",
+    "text": "the",
+    "start": 96.962,
+    "end": 97.05
+  },
+  {
+    "id": "w253",
+    "text": "mask,",
+    "start": 97.05,
+    "end": 97.475
+  },
+  {
+    "id": "w254",
+    "text": "and",
+    "start": 97.55,
+    "end": 97.675
+  },
+  {
+    "id": "w255",
+    "text": "go",
+    "start": 97.675,
+    "end": 97.85
+  },
+  {
+    "id": "w256",
+    "text": "again.",
+    "start": 97.85,
+    "end": 98.475
+  },
+  {
+    "id": "w257",
+    "text": "Draw",
+    "start": 99.775,
+    "end": 100.0
+  },
+  {
+    "id": "w258",
+    "text": "that",
+    "start": 100.0,
+    "end": 100.2
+  },
+  {
+    "id": "w259",
+    "text": "recipe",
+    "start": 100.2,
+    "end": 100.675
+  },
+  {
+    "id": "w260",
+    "text": "as",
+    "start": 100.675,
+    "end": 100.8
+  },
+  {
+    "id": "w261",
+    "text": "a",
+    "start": 100.8,
+    "end": 100.9
+  },
+  {
+    "id": "w262",
+    "text": "loop,",
+    "start": 100.9,
+    "end": 101.175
+  },
+  {
+    "id": "w263",
+    "text": "and",
+    "start": 101.25,
+    "end": 101.4
+  },
+  {
+    "id": "w264",
+    "text": "six",
+    "start": 101.4,
+    "end": 101.675
+  },
+  {
+    "id": "w265",
+    "text": "families",
+    "start": 101.675,
+    "end": 102.162
+  },
+  {
+    "id": "w266",
+    "text": "of",
+    "start": 102.162,
+    "end": 102.237
+  },
+  {
+    "id": "w267",
+    "text": "machines",
+    "start": 102.237,
+    "end": 102.675
+  },
+  {
+    "id": "w268",
+    "text": "appear.",
+    "start": 102.675,
+    "end": 103.325
+  },
+  {
+    "id": "w269",
+    "text": "Lithography",
+    "start": 103.438,
+    "end": 104.1
+  },
+  {
+    "id": "w270",
+    "text": "patterns.",
+    "start": 104.1,
+    "end": 104.9
+  },
+  {
+    "id": "w271",
+    "text": "Deposition",
+    "start": 105.012,
+    "end": 105.737
+  },
+  {
+    "id": "w272",
+    "text": "adds",
+    "start": 105.737,
+    "end": 106.025
+  },
+  {
+    "id": "w273",
+    "text": "material.",
+    "start": 106.025,
+    "end": 106.925
+  },
+  {
+    "id": "w274",
+    "text": "Etching",
+    "start": 107.062,
+    "end": 107.525
+  },
+  {
+    "id": "w275",
+    "text": "and",
+    "start": 107.525,
+    "end": 107.65
+  },
+  {
+    "id": "w276",
+    "text": "polishing",
+    "start": 107.65,
+    "end": 108.175
+  },
+  {
+    "id": "w277",
+    "text": "take",
+    "start": 108.175,
+    "end": 108.362
+  },
+  {
+    "id": "w278",
+    "text": "it",
+    "start": 108.362,
+    "end": 108.45
+  },
+  {
+    "id": "w279",
+    "text": "away.",
+    "start": 108.45,
+    "end": 109.15
+  },
+  {
+    "id": "w280",
+    "text": "Ion",
+    "start": 109.325,
+    "end": 109.7
+  },
+  {
+    "id": "w281",
+    "text": "implanters",
+    "start": 109.7,
+    "end": 110.337
+  },
+  {
+    "id": "w282",
+    "text": "modify",
+    "start": 110.337,
+    "end": 110.85
+  },
+  {
+    "id": "w283",
+    "text": "the",
+    "start": 110.85,
+    "end": 110.962
+  },
+  {
+    "id": "w284",
+    "text": "silicon",
+    "start": 110.962,
+    "end": 111.45
+  },
+  {
+    "id": "w285",
+    "text": "itself.",
+    "start": 111.45,
+    "end": 112.25
+  },
+  {
+    "id": "w286",
+    "text": "Washers",
+    "start": 112.4,
+    "end": 112.925
+  },
+  {
+    "id": "w287",
+    "text": "clean,",
+    "start": 112.925,
+    "end": 113.475
+  },
+  {
+    "id": "w288",
+    "text": "and",
+    "start": 113.55,
+    "end": 113.662
+  },
+  {
+    "id": "w289",
+    "text": "metrology",
+    "start": 113.662,
+    "end": 114.225
+  },
+  {
+    "id": "w290",
+    "text": "tools",
+    "start": 114.225,
+    "end": 114.6
+  },
+  {
+    "id": "w291",
+    "text": "inspect.",
+    "start": 114.6,
+    "end": 115.475
+  },
+  {
+    "id": "w292",
+    "text": "Go",
+    "start": 115.612,
+    "end": 115.85
+  },
+  {
+    "id": "w293",
+    "text": "around",
+    "start": 115.85,
+    "end": 116.162
+  },
+  {
+    "id": "w294",
+    "text": "the",
+    "start": 116.162,
+    "end": 116.25
+  },
+  {
+    "id": "w295",
+    "text": "loop",
+    "start": 116.25,
+    "end": 116.5
+  },
+  {
+    "id": "w296",
+    "text": "eighty",
+    "start": 116.5,
+    "end": 116.775
+  },
+  {
+    "id": "w297",
+    "text": "times,",
+    "start": 116.775,
+    "end": 117.375
+  },
+  {
+    "id": "w298",
+    "text": "and",
+    "start": 117.45,
+    "end": 117.562
+  },
+  {
+    "id": "w299",
+    "text": "a",
+    "start": 117.562,
+    "end": 117.662
+  },
+  {
+    "id": "w300",
+    "text": "wafer",
+    "start": 117.662,
+    "end": 118.075
+  },
+  {
+    "id": "w301",
+    "text": "has",
+    "start": 118.075,
+    "end": 118.25
+  },
+  {
+    "id": "w302",
+    "text": "made",
+    "start": 118.25,
+    "end": 118.475
+  },
+  {
+    "id": "w303",
+    "text": "close",
+    "start": 118.475,
+    "end": 118.8
+  },
+  {
+    "id": "w304",
+    "text": "to",
+    "start": 118.8,
+    "end": 118.9
+  },
+  {
+    "id": "w305",
+    "text": "a",
+    "start": 118.9,
+    "end": 119.012
+  },
+  {
+    "id": "w306",
+    "text": "thousand",
+    "start": 119.012,
+    "end": 119.45
+  },
+  {
+    "id": "w307",
+    "text": "stops.",
+    "start": 119.45,
+    "end": 120.175
+  },
+  {
+    "id": "w308",
+    "text": "Those",
+    "start": 121.45,
+    "end": 121.65
+  },
+  {
+    "id": "w309",
+    "text": "stops",
+    "start": 121.65,
+    "end": 121.975
+  },
+  {
+    "id": "w310",
+    "text": "happen",
+    "start": 121.975,
+    "end": 122.325
+  },
+  {
+    "id": "w311",
+    "text": "inside",
+    "start": 122.325,
+    "end": 122.688
+  },
+  {
+    "id": "w312",
+    "text": "a",
+    "start": 122.688,
+    "end": 122.763
+  },
+  {
+    "id": "w313",
+    "text": "fab:",
+    "start": 122.763,
+    "end": 123.425
+  },
+  {
+    "id": "w314",
+    "text": "a",
+    "start": 123.562,
+    "end": 123.688
+  },
+  {
+    "id": "w315",
+    "text": "clean",
+    "start": 123.688,
+    "end": 124.0
+  },
+  {
+    "id": "w316",
+    "text": "room",
+    "start": 124.0,
+    "end": 124.275
+  },
+  {
+    "id": "w317",
+    "text": "as",
+    "start": 124.275,
+    "end": 124.438
+  },
+  {
+    "id": "w318",
+    "text": "large",
+    "start": 124.438,
+    "end": 124.787
+  },
+  {
+    "id": "w319",
+    "text": "as",
+    "start": 124.787,
+    "end": 124.938
+  },
+  {
+    "id": "w320",
+    "text": "eight",
+    "start": 124.938,
+    "end": 125.212
+  },
+  {
+    "id": "w321",
+    "text": "football",
+    "start": 125.212,
+    "end": 125.6
+  },
+  {
+    "id": "w322",
+    "text": "fields,",
+    "start": 125.6,
+    "end": 126.225
+  },
+  {
+    "id": "w323",
+    "text": "filled",
+    "start": 126.337,
+    "end": 126.612
+  },
+  {
+    "id": "w324",
+    "text": "with",
+    "start": 126.612,
+    "end": 126.75
+  },
+  {
+    "id": "w325",
+    "text": "hundreds",
+    "start": 126.75,
+    "end": 127.138
+  },
+  {
+    "id": "w326",
+    "text": "of",
+    "start": 127.138,
+    "end": 127.212
+  },
+  {
+    "id": "w327",
+    "text": "machines,",
+    "start": 127.212,
+    "end": 128.025
+  },
+  {
+    "id": "w328",
+    "text": "some",
+    "start": 128.125,
+    "end": 128.3
+  },
+  {
+    "id": "w329",
+    "text": "costing",
+    "start": 128.3,
+    "end": 128.7
+  },
+  {
+    "id": "w330",
+    "text": "a",
+    "start": 128.7,
+    "end": 128.8
+  },
+  {
+    "id": "w331",
+    "text": "hundred",
+    "start": 128.8,
+    "end": 129.225
+  },
+  {
+    "id": "w332",
+    "text": "and",
+    "start": 129.225,
+    "end": 129.363
+  },
+  {
+    "id": "w333",
+    "text": "seventy",
+    "start": 129.363,
+    "end": 129.75
+  },
+  {
+    "id": "w334",
+    "text": "million",
+    "start": 129.75,
+    "end": 130.075
+  },
+  {
+    "id": "w335",
+    "text": "dollars",
+    "start": 130.075,
+    "end": 130.45
+  },
+  {
+    "id": "w336",
+    "text": "each.",
+    "start": 130.45,
+    "end": 131.2
+  },
+  {
+    "id": "w337",
+    "text": "Wafers,",
+    "start": 131.4,
+    "end": 132.15
+  },
+  {
+    "id": "w338",
+    "text": "three",
+    "start": 132.262,
+    "end": 132.5
+  },
+  {
+    "id": "w339",
+    "text": "hundred",
+    "start": 132.5,
+    "end": 132.8
+  },
+  {
+    "id": "w340",
+    "text": "millimeters",
+    "start": 132.8,
+    "end": 133.325
+  },
+  {
+    "id": "w341",
+    "text": "across,",
+    "start": 133.325,
+    "end": 134.025
+  },
+  {
+    "id": "w342",
+    "text": "ride",
+    "start": 134.162,
+    "end": 134.5
+  },
+  {
+    "id": "w343",
+    "text": "in",
+    "start": 134.5,
+    "end": 134.675
+  },
+  {
+    "id": "w344",
+    "text": "sealed",
+    "start": 134.675,
+    "end": 135.05
+  },
+  {
+    "id": "w345",
+    "text": "pods",
+    "start": 135.05,
+    "end": 135.387
+  },
+  {
+    "id": "w346",
+    "text": "of",
+    "start": 135.387,
+    "end": 135.475
+  },
+  {
+    "id": "w347",
+    "text": "twenty-five,",
+    "start": 135.475,
+    "end": 136.325
+  },
+  {
+    "id": "w348",
+    "text": "carried",
+    "start": 136.438,
+    "end": 136.825
+  },
+  {
+    "id": "w349",
+    "text": "on",
+    "start": 136.825,
+    "end": 137.012
+  },
+  {
+    "id": "w350",
+    "text": "overhead",
+    "start": 137.012,
+    "end": 137.5
+  },
+  {
+    "id": "w351",
+    "text": "rails",
+    "start": 137.5,
+    "end": 137.9
+  },
+  {
+    "id": "w352",
+    "text": "from",
+    "start": 137.9,
+    "end": 138.113
+  },
+  {
+    "id": "w353",
+    "text": "tool",
+    "start": 138.113,
+    "end": 138.45
+  },
+  {
+    "id": "w354",
+    "text": "to",
+    "start": 138.45,
+    "end": 138.588
+  },
+  {
+    "id": "w355",
+    "text": "tool.",
+    "start": 138.588,
+    "end": 139.4
+  },
+  {
+    "id": "w356",
+    "text": "With",
+    "start": 139.525,
+    "end": 139.738
+  },
+  {
+    "id": "w357",
+    "text": "four",
+    "start": 139.738,
+    "end": 140.025
+  },
+  {
+    "id": "w358",
+    "text": "hundred",
+    "start": 140.025,
+    "end": 140.412
+  },
+  {
+    "id": "w359",
+    "text": "and",
+    "start": 140.412,
+    "end": 140.525
+  },
+  {
+    "id": "w360",
+    "text": "thirty-five",
+    "start": 140.525,
+    "end": 141.05
+  },
+  {
+    "id": "w361",
+    "text": "tools",
+    "start": 141.05,
+    "end": 141.363
+  },
+  {
+    "id": "w362",
+    "text": "on",
+    "start": 141.363,
+    "end": 141.463
+  },
+  {
+    "id": "w363",
+    "text": "the",
+    "start": 141.463,
+    "end": 141.562
+  },
+  {
+    "id": "w364",
+    "text": "floor,",
+    "start": 141.562,
+    "end": 142.15
+  },
+  {
+    "id": "w365",
+    "text": "this",
+    "start": 142.25,
+    "end": 142.475
+  },
+  {
+    "id": "w366",
+    "text": "fab",
+    "start": 142.475,
+    "end": 142.825
+  },
+  {
+    "id": "w367",
+    "text": "finishes",
+    "start": 142.825,
+    "end": 143.325
+  },
+  {
+    "id": "w368",
+    "text": "fifty",
+    "start": 143.325,
+    "end": 143.688
+  },
+  {
+    "id": "w369",
+    "text": "thousand",
+    "start": 143.688,
+    "end": 144.1
+  },
+  {
+    "id": "w370",
+    "text": "wafers",
+    "start": 144.1,
+    "end": 144.55
+  },
+  {
+    "id": "w371",
+    "text": "a",
+    "start": 144.55,
+    "end": 144.625
+  },
+  {
+    "id": "w372",
+    "text": "month.",
+    "start": 144.625,
+    "end": 145.2
+  },
+  {
+    "id": "w373",
+    "text": "The",
+    "start": 146.475,
+    "end": 146.55
+  },
+  {
+    "id": "w374",
+    "text": "most",
+    "start": 146.55,
+    "end": 146.825
+  },
+  {
+    "id": "w375",
+    "text": "important",
+    "start": 146.825,
+    "end": 147.325
+  },
+  {
+    "id": "w376",
+    "text": "stop",
+    "start": 147.325,
+    "end": 147.713
+  },
+  {
+    "id": "w377",
+    "text": "is",
+    "start": 147.713,
+    "end": 147.875
+  },
+  {
+    "id": "w378",
+    "text": "lithography.",
+    "start": 147.875,
+    "end": 148.95
+  },
+  {
+    "id": "w379",
+    "text": "Ultraviolet",
+    "start": 149.112,
+    "end": 149.825
+  },
+  {
+    "id": "w380",
+    "text": "light",
+    "start": 149.825,
+    "end": 150.125
+  },
+  {
+    "id": "w381",
+    "text": "shines",
+    "start": 150.125,
+    "end": 150.525
+  },
+  {
+    "id": "w382",
+    "text": "through",
+    "start": 150.525,
+    "end": 150.637
+  },
+  {
+    "id": "w383",
+    "text": "the",
+    "start": 150.637,
+    "end": 150.725
+  },
+  {
+    "id": "w384",
+    "text": "photomask,",
+    "start": 150.725,
+    "end": 151.6
+  },
+  {
+    "id": "w385",
+    "text": "then",
+    "start": 151.7,
+    "end": 151.9
+  },
+  {
+    "id": "w386",
+    "text": "through",
+    "start": 151.9,
+    "end": 152.137
+  },
+  {
+    "id": "w387",
+    "text": "lenses",
+    "start": 152.137,
+    "end": 152.625
+  },
+  {
+    "id": "w388",
+    "text": "that",
+    "start": 152.625,
+    "end": 152.85
+  },
+  {
+    "id": "w389",
+    "text": "shrink",
+    "start": 152.85,
+    "end": 153.15
+  },
+  {
+    "id": "w390",
+    "text": "the",
+    "start": 153.15,
+    "end": 153.3
+  },
+  {
+    "id": "w391",
+    "text": "image",
+    "start": 153.3,
+    "end": 153.713
+  },
+  {
+    "id": "w392",
+    "text": "four",
+    "start": 153.713,
+    "end": 153.95
+  },
+  {
+    "id": "w393",
+    "text": "times.",
+    "start": 153.95,
+    "end": 154.825
+  },
+  {
+    "id": "w394",
+    "text": "The",
+    "start": 154.963,
+    "end": 155.1
+  },
+  {
+    "id": "w395",
+    "text": "wafer",
+    "start": 155.1,
+    "end": 155.475
+  },
+  {
+    "id": "w396",
+    "text": "steps",
+    "start": 155.475,
+    "end": 155.8
+  },
+  {
+    "id": "w397",
+    "text": "beneath",
+    "start": 155.8,
+    "end": 156.15
+  },
+  {
+    "id": "w398",
+    "text": "the",
+    "start": 156.15,
+    "end": 156.25
+  },
+  {
+    "id": "w399",
+    "text": "beam,",
+    "start": 156.25,
+    "end": 156.85
+  },
+  {
+    "id": "w400",
+    "text": "exposure",
+    "start": 156.963,
+    "end": 157.65
+  },
+  {
+    "id": "w401",
+    "text": "after",
+    "start": 157.65,
+    "end": 157.925
+  },
+  {
+    "id": "w402",
+    "text": "exposure,",
+    "start": 157.925,
+    "end": 158.8
+  },
+  {
+    "id": "w403",
+    "text": "until",
+    "start": 158.9,
+    "end": 159.213
+  },
+  {
+    "id": "w404",
+    "text": "all",
+    "start": 159.213,
+    "end": 159.512
+  },
+  {
+    "id": "w405",
+    "text": "two",
+    "start": 159.512,
+    "end": 159.725
+  },
+  {
+    "id": "w406",
+    "text": "hundred",
+    "start": 159.725,
+    "end": 160.062
+  },
+  {
+    "id": "w407",
+    "text": "and",
+    "start": 160.062,
+    "end": 160.175
+  },
+  {
+    "id": "w408",
+    "text": "thirty",
+    "start": 160.175,
+    "end": 160.512
+  },
+  {
+    "id": "w409",
+    "text": "chips",
+    "start": 160.512,
+    "end": 160.875
+  },
+  {
+    "id": "w410",
+    "text": "carry",
+    "start": 160.875,
+    "end": 161.175
+  },
+  {
+    "id": "w411",
+    "text": "the",
+    "start": 161.175,
+    "end": 161.275
+  },
+  {
+    "id": "w412",
+    "text": "pattern.",
+    "start": 161.275,
+    "end": 162.15
+  },
+  {
+    "id": "w413",
+    "text": "A",
+    "start": 162.312,
+    "end": 162.438
+  },
+  {
+    "id": "w414",
+    "text": "single",
+    "start": 162.438,
+    "end": 162.775
+  },
+  {
+    "id": "w415",
+    "text": "processor",
+    "start": 162.775,
+    "end": 163.4
+  },
+  {
+    "id": "w416",
+    "text": "needs",
+    "start": 163.4,
+    "end": 163.75
+  },
+  {
+    "id": "w417",
+    "text": "eighty",
+    "start": 163.75,
+    "end": 164.05
+  },
+  {
+    "id": "w418",
+    "text": "different",
+    "start": 164.05,
+    "end": 164.35
+  },
+  {
+    "id": "w419",
+    "text": "masks,",
+    "start": 164.35,
+    "end": 165.125
+  },
+  {
+    "id": "w420",
+    "text": "each",
+    "start": 165.25,
+    "end": 165.475
+  },
+  {
+    "id": "w421",
+    "text": "costing",
+    "start": 165.475,
+    "end": 165.9
+  },
+  {
+    "id": "w422",
+    "text": "around",
+    "start": 165.9,
+    "end": 166.275
+  },
+  {
+    "id": "w423",
+    "text": "three",
+    "start": 166.275,
+    "end": 166.6
+  },
+  {
+    "id": "w424",
+    "text": "hundred",
+    "start": 166.6,
+    "end": 166.95
+  },
+  {
+    "id": "w425",
+    "text": "thousand",
+    "start": 166.95,
+    "end": 167.35
+  },
+  {
+    "id": "w426",
+    "text": "dollars.",
+    "start": 167.35,
+    "end": 168.1
+  },
+  {
+    "id": "w427",
+    "text": "Deposition",
+    "start": 169.4,
+    "end": 169.925
+  },
+  {
+    "id": "w428",
+    "text": "tools",
+    "start": 169.925,
+    "end": 170.325
+  },
+  {
+    "id": "w429",
+    "text": "lay",
+    "start": 170.325,
+    "end": 170.525
+  },
+  {
+    "id": "w430",
+    "text": "down",
+    "start": 170.525,
+    "end": 170.8
+  },
+  {
+    "id": "w431",
+    "text": "metals,",
+    "start": 170.8,
+    "end": 171.375
+  },
+  {
+    "id": "w432",
+    "text": "insulators,",
+    "start": 171.475,
+    "end": 172.15
+  },
+  {
+    "id": "w433",
+    "text": "and",
+    "start": 172.2,
+    "end": 172.325
+  },
+  {
+    "id": "w434",
+    "text": "crystalline",
+    "start": 172.325,
+    "end": 172.825
+  },
+  {
+    "id": "w435",
+    "text": "silicon,",
+    "start": 172.825,
+    "end": 173.65
+  },
+  {
+    "id": "w436",
+    "text": "a",
+    "start": 173.75,
+    "end": 173.825
+  },
+  {
+    "id": "w437",
+    "text": "little",
+    "start": 173.825,
+    "end": 174.012
+  },
+  {
+    "id": "w438",
+    "text": "like",
+    "start": 174.012,
+    "end": 174.2
+  },
+  {
+    "id": "w439",
+    "text": "spray",
+    "start": 174.2,
+    "end": 174.637
+  },
+  {
+    "id": "w440",
+    "text": "paint",
+    "start": 174.637,
+    "end": 174.95
+  },
+  {
+    "id": "w441",
+    "text": "through",
+    "start": 174.95,
+    "end": 175.137
+  },
+  {
+    "id": "w442",
+    "text": "a",
+    "start": 175.137,
+    "end": 175.2
+  },
+  {
+    "id": "w443",
+    "text": "stencil.",
+    "start": 175.2,
+    "end": 176.125
+  },
+  {
+    "id": "w444",
+    "text": "Plasma",
+    "start": 176.287,
+    "end": 176.7
+  },
+  {
+    "id": "w445",
+    "text": "etchers",
+    "start": 176.7,
+    "end": 177.075
+  },
+  {
+    "id": "w446",
+    "text": "carve",
+    "start": 177.075,
+    "end": 177.375
+  },
+  {
+    "id": "w447",
+    "text": "straight",
+    "start": 177.375,
+    "end": 177.675
+  },
+  {
+    "id": "w448",
+    "text": "down",
+    "start": 177.675,
+    "end": 177.95
+  },
+  {
+    "id": "w449",
+    "text": "through",
+    "start": 177.95,
+    "end": 178.213
+  },
+  {
+    "id": "w450",
+    "text": "whatever",
+    "start": 178.213,
+    "end": 178.562
+  },
+  {
+    "id": "w451",
+    "text": "the",
+    "start": 178.562,
+    "end": 178.65
+  },
+  {
+    "id": "w452",
+    "text": "mask",
+    "start": 178.65,
+    "end": 179.05
+  },
+  {
+    "id": "w453",
+    "text": "leaves",
+    "start": 179.05,
+    "end": 179.35
+  },
+  {
+    "id": "w454",
+    "text": "exposed.",
+    "start": 179.35,
+    "end": 180.375
+  },
+  {
+    "id": "w455",
+    "text": "Chemical",
+    "start": 180.537,
+    "end": 180.963
+  },
+  {
+    "id": "w456",
+    "text": "mechanical",
+    "start": 180.963,
+    "end": 181.475
+  },
+  {
+    "id": "w457",
+    "text": "polishing",
+    "start": 181.475,
+    "end": 181.975
+  },
+  {
+    "id": "w458",
+    "text": "grinds",
+    "start": 181.975,
+    "end": 182.287
+  },
+  {
+    "id": "w459",
+    "text": "the",
+    "start": 182.287,
+    "end": 182.387
+  },
+  {
+    "id": "w460",
+    "text": "surface",
+    "start": 182.387,
+    "end": 182.862
+  },
+  {
+    "id": "w461",
+    "text": "flat,",
+    "start": 182.862,
+    "end": 183.375
+  },
+  {
+    "id": "w462",
+    "text": "ready",
+    "start": 183.512,
+    "end": 183.8
+  },
+  {
+    "id": "w463",
+    "text": "for",
+    "start": 183.8,
+    "end": 183.912
+  },
+  {
+    "id": "w464",
+    "text": "the",
+    "start": 183.912,
+    "end": 184.0
+  },
+  {
+    "id": "w465",
+    "text": "next",
+    "start": 184.0,
+    "end": 184.3
+  },
+  {
+    "id": "w466",
+    "text": "layer.",
+    "start": 184.3,
+    "end": 185.1
+  },
+  {
+    "id": "w467",
+    "text": "And",
+    "start": 185.225,
+    "end": 185.387
+  },
+  {
+    "id": "w468",
+    "text": "at",
+    "start": 185.387,
+    "end": 185.463
+  },
+  {
+    "id": "w469",
+    "text": "the",
+    "start": 185.463,
+    "end": 185.55
+  },
+  {
+    "id": "w470",
+    "text": "very",
+    "start": 185.55,
+    "end": 185.825
+  },
+  {
+    "id": "w471",
+    "text": "bottom,",
+    "start": 185.825,
+    "end": 186.425
+  },
+  {
+    "id": "w472",
+    "text": "ion",
+    "start": 186.562,
+    "end": 186.9
+  },
+  {
+    "id": "w473",
+    "text": "implanters",
+    "start": 186.9,
+    "end": 187.512
+  },
+  {
+    "id": "w474",
+    "text": "fire",
+    "start": 187.512,
+    "end": 187.862
+  },
+  {
+    "id": "w475",
+    "text": "boron",
+    "start": 187.862,
+    "end": 188.438
+  },
+  {
+    "id": "w476",
+    "text": "or",
+    "start": 188.438,
+    "end": 188.625
+  },
+  {
+    "id": "w477",
+    "text": "phosphorus",
+    "start": 188.625,
+    "end": 189.262
+  },
+  {
+    "id": "w478",
+    "text": "deep",
+    "start": 189.262,
+    "end": 189.537
+  },
+  {
+    "id": "w479",
+    "text": "into",
+    "start": 189.537,
+    "end": 189.713
+  },
+  {
+    "id": "w480",
+    "text": "the",
+    "start": 189.713,
+    "end": 189.8
+  },
+  {
+    "id": "w481",
+    "text": "silicon,",
+    "start": 189.8,
+    "end": 190.625
+  },
+  {
+    "id": "w482",
+    "text": "roughly",
+    "start": 190.762,
+    "end": 191.112
+  },
+  {
+    "id": "w483",
+    "text": "one",
+    "start": 191.112,
+    "end": 191.35
+  },
+  {
+    "id": "w484",
+    "text": "atom",
+    "start": 191.35,
+    "end": 191.675
+  },
+  {
+    "id": "w485",
+    "text": "for",
+    "start": 191.675,
+    "end": 191.825
+  },
+  {
+    "id": "w486",
+    "text": "every",
+    "start": 191.825,
+    "end": 192.137
+  },
+  {
+    "id": "w487",
+    "text": "ten",
+    "start": 192.137,
+    "end": 192.4
+  },
+  {
+    "id": "w488",
+    "text": "thousand,",
+    "start": 192.4,
+    "end": 193.075
+  },
+  {
+    "id": "w489",
+    "text": "to",
+    "start": 193.175,
+    "end": 193.3
+  },
+  {
+    "id": "w490",
+    "text": "create",
+    "start": 193.3,
+    "end": 193.637
+  },
+  {
+    "id": "w491",
+    "text": "the",
+    "start": 193.637,
+    "end": 193.725
+  },
+  {
+    "id": "w492",
+    "text": "regions",
+    "start": 193.725,
+    "end": 194.225
+  },
+  {
+    "id": "w493",
+    "text": "that",
+    "start": 194.225,
+    "end": 194.375
+  },
+  {
+    "id": "w494",
+    "text": "let",
+    "start": 194.375,
+    "end": 194.575
+  },
+  {
+    "id": "w495",
+    "text": "transistors",
+    "start": 194.575,
+    "end": 195.287
+  },
+  {
+    "id": "w496",
+    "text": "switch.",
+    "start": 195.287,
+    "end": 195.95
+  },
+  {
+    "id": "w497",
+    "text": "A",
+    "start": 196.475,
+    "end": 196.55
+  },
+  {
+    "id": "w498",
+    "text": "quick",
+    "start": 196.55,
+    "end": 196.8
+  },
+  {
+    "id": "w499",
+    "text": "bake,",
+    "start": 196.8,
+    "end": 197.125
+  },
+  {
+    "id": "w500",
+    "text": "called",
+    "start": 197.175,
+    "end": 197.438
+  },
+  {
+    "id": "w501",
+    "text": "an",
+    "start": 197.438,
+    "end": 197.525
+  },
+  {
+    "id": "w502",
+    "text": "anneal,",
+    "start": 197.525,
+    "end": 198.075
+  },
+  {
+    "id": "w503",
+    "text": "heals",
+    "start": 198.188,
+    "end": 198.512
+  },
+  {
+    "id": "w504",
+    "text": "the",
+    "start": 198.512,
+    "end": 198.6
+  },
+  {
+    "id": "w505",
+    "text": "crystal",
+    "start": 198.6,
+    "end": 199.0
+  },
+  {
+    "id": "w506",
+    "text": "afterward.",
+    "start": 199.0,
+    "end": 199.8
+  },
+  {
+    "id": "w507",
+    "text": "Between",
+    "start": 201.05,
+    "end": 201.4
+  },
+  {
+    "id": "w508",
+    "text": "steps,",
+    "start": 201.4,
+    "end": 202.0
+  },
+  {
+    "id": "w509",
+    "text": "wafers",
+    "start": 202.112,
+    "end": 202.6
+  },
+  {
+    "id": "w510",
+    "text": "are",
+    "start": 202.6,
+    "end": 202.762
+  },
+  {
+    "id": "w511",
+    "text": "rinsed",
+    "start": 202.762,
+    "end": 203.15
+  },
+  {
+    "id": "w512",
+    "text": "in",
+    "start": 203.15,
+    "end": 203.312
+  },
+  {
+    "id": "w513",
+    "text": "ultra-pure",
+    "start": 203.312,
+    "end": 203.85
+  },
+  {
+    "id": "w514",
+    "text": "water",
+    "start": 203.85,
+    "end": 204.437
+  },
+  {
+    "id": "w515",
+    "text": "and",
+    "start": 204.437,
+    "end": 204.612
+  },
+  {
+    "id": "w516",
+    "text": "dried",
+    "start": 204.612,
+    "end": 205.025
+  },
+  {
+    "id": "w517",
+    "text": "with",
+    "start": 205.025,
+    "end": 205.2
+  },
+  {
+    "id": "w518",
+    "text": "nitrogen.",
+    "start": 205.2,
+    "end": 206.225
+  },
+  {
+    "id": "w519",
+    "text": "Electron",
+    "start": 206.4,
+    "end": 207.0
+  },
+  {
+    "id": "w520",
+    "text": "microscopes",
+    "start": 207.0,
+    "end": 207.8
+  },
+  {
+    "id": "w521",
+    "text": "scan",
+    "start": 207.8,
+    "end": 208.112
+  },
+  {
+    "id": "w522",
+    "text": "them",
+    "start": 208.112,
+    "end": 208.275
+  },
+  {
+    "id": "w523",
+    "text": "for",
+    "start": 208.275,
+    "end": 208.437
+  },
+  {
+    "id": "w524",
+    "text": "flaws,",
+    "start": 208.437,
+    "end": 209.175
+  },
+  {
+    "id": "w525",
+    "text": "because",
+    "start": 209.275,
+    "end": 209.575
+  },
+  {
+    "id": "w526",
+    "text": "a",
+    "start": 209.575,
+    "end": 209.687
+  },
+  {
+    "id": "w527",
+    "text": "defect",
+    "start": 209.687,
+    "end": 210.175
+  },
+  {
+    "id": "w528",
+    "text": "caught",
+    "start": 210.175,
+    "end": 210.425
+  },
+  {
+    "id": "w529",
+    "text": "today",
+    "start": 210.425,
+    "end": 210.95
+  },
+  {
+    "id": "w530",
+    "text": "is",
+    "start": 210.95,
+    "end": 211.162
+  },
+  {
+    "id": "w531",
+    "text": "far",
+    "start": 211.162,
+    "end": 211.437
+  },
+  {
+    "id": "w532",
+    "text": "cheaper",
+    "start": 211.437,
+    "end": 211.825
+  },
+  {
+    "id": "w533",
+    "text": "than",
+    "start": 211.825,
+    "end": 212.0
+  },
+  {
+    "id": "w534",
+    "text": "one",
+    "start": 212.0,
+    "end": 212.225
+  },
+  {
+    "id": "w535",
+    "text": "discovered",
+    "start": 212.225,
+    "end": 212.787
+  },
+  {
+    "id": "w536",
+    "text": "three",
+    "start": 212.787,
+    "end": 213.025
+  },
+  {
+    "id": "w537",
+    "text": "months",
+    "start": 213.025,
+    "end": 213.325
+  },
+  {
+    "id": "w538",
+    "text": "from",
+    "start": 213.325,
+    "end": 213.487
+  },
+  {
+    "id": "w539",
+    "text": "now.",
+    "start": 213.487,
+    "end": 214.075
+  },
+  {
+    "id": "w540",
+    "text": "The",
+    "start": 215.3,
+    "end": 215.4
+  },
+  {
+    "id": "w541",
+    "text": "wafers",
+    "start": 215.4,
+    "end": 215.85
+  },
+  {
+    "id": "w542",
+    "text": "themselves",
+    "start": 215.85,
+    "end": 216.375
+  },
+  {
+    "id": "w543",
+    "text": "begin",
+    "start": 216.375,
+    "end": 216.775
+  },
+  {
+    "id": "w544",
+    "text": "as",
+    "start": 216.775,
+    "end": 216.925
+  },
+  {
+    "id": "w545",
+    "text": "quartz",
+    "start": 216.925,
+    "end": 217.3
+  },
+  {
+    "id": "w546",
+    "text": "rock,",
+    "start": 217.3,
+    "end": 217.85
+  },
+  {
+    "id": "w547",
+    "text": "refined",
+    "start": 217.95,
+    "end": 218.462
+  },
+  {
+    "id": "w548",
+    "text": "into",
+    "start": 218.462,
+    "end": 218.712
+  },
+  {
+    "id": "w549",
+    "text": "ultra-pure",
+    "start": 218.712,
+    "end": 219.25
+  },
+  {
+    "id": "w550",
+    "text": "silicon",
+    "start": 219.25,
+    "end": 219.887
+  },
+  {
+    "id": "w551",
+    "text": "and",
+    "start": 219.887,
+    "end": 220.037
+  },
+  {
+    "id": "w552",
+    "text": "grown",
+    "start": 220.037,
+    "end": 220.475
+  },
+  {
+    "id": "w553",
+    "text": "into",
+    "start": 220.475,
+    "end": 220.725
+  },
+  {
+    "id": "w554",
+    "text": "a",
+    "start": 220.725,
+    "end": 220.85
+  },
+  {
+    "id": "w555",
+    "text": "single,",
+    "start": 220.85,
+    "end": 221.4
+  },
+  {
+    "id": "w556",
+    "text": "flawless",
+    "start": 221.525,
+    "end": 222.0
+  },
+  {
+    "id": "w557",
+    "text": "crystal.",
+    "start": 222.0,
+    "end": 222.9
+  },
+  {
+    "id": "w558",
+    "text": "That",
+    "start": 223.037,
+    "end": 223.3
+  },
+  {
+    "id": "w559",
+    "text": "crystal",
+    "start": 223.3,
+    "end": 223.75
+  },
+  {
+    "id": "w560",
+    "text": "is",
+    "start": 223.75,
+    "end": 223.887
+  },
+  {
+    "id": "w561",
+    "text": "sliced",
+    "start": 223.887,
+    "end": 224.287
+  },
+  {
+    "id": "w562",
+    "text": "into",
+    "start": 224.287,
+    "end": 224.537
+  },
+  {
+    "id": "w563",
+    "text": "discs",
+    "start": 224.537,
+    "end": 224.987
+  },
+  {
+    "id": "w564",
+    "text": "less",
+    "start": 224.987,
+    "end": 225.3
+  },
+  {
+    "id": "w565",
+    "text": "than",
+    "start": 225.3,
+    "end": 225.412
+  },
+  {
+    "id": "w566",
+    "text": "a",
+    "start": 225.412,
+    "end": 225.475
+  },
+  {
+    "id": "w567",
+    "text": "millimeter",
+    "start": 225.475,
+    "end": 226.037
+  },
+  {
+    "id": "w568",
+    "text": "thick,",
+    "start": 226.037,
+    "end": 226.575
+  },
+  {
+    "id": "w569",
+    "text": "each",
+    "start": 226.712,
+    "end": 226.987
+  },
+  {
+    "id": "w570",
+    "text": "with",
+    "start": 226.987,
+    "end": 227.112
+  },
+  {
+    "id": "w571",
+    "text": "a",
+    "start": 227.112,
+    "end": 227.212
+  },
+  {
+    "id": "w572",
+    "text": "tiny",
+    "start": 227.212,
+    "end": 227.65
+  },
+  {
+    "id": "w573",
+    "text": "notch",
+    "start": 227.65,
+    "end": 228.037
+  },
+  {
+    "id": "w574",
+    "text": "marking",
+    "start": 228.037,
+    "end": 228.375
+  },
+  {
+    "id": "w575",
+    "text": "its",
+    "start": 228.375,
+    "end": 228.575
+  },
+  {
+    "id": "w576",
+    "text": "crystal",
+    "start": 228.575,
+    "end": 228.95
+  },
+  {
+    "id": "w577",
+    "text": "direction.",
+    "start": 228.95,
+    "end": 229.925
+  },
+  {
+    "id": "w578",
+    "text": "A",
+    "start": 230.087,
+    "end": 230.212
+  },
+  {
+    "id": "w579",
+    "text": "blank",
+    "start": 230.212,
+    "end": 230.55
+  },
+  {
+    "id": "w580",
+    "text": "wafer",
+    "start": 230.55,
+    "end": 230.962
+  },
+  {
+    "id": "w581",
+    "text": "costs",
+    "start": 230.962,
+    "end": 231.4
+  },
+  {
+    "id": "w582",
+    "text": "about",
+    "start": 231.4,
+    "end": 231.637
+  },
+  {
+    "id": "w583",
+    "text": "a",
+    "start": 231.637,
+    "end": 231.7
+  },
+  {
+    "id": "w584",
+    "text": "hundred",
+    "start": 231.7,
+    "end": 232.1
+  },
+  {
+    "id": "w585",
+    "text": "dollars.",
+    "start": 232.1,
+    "end": 232.975
+  },
+  {
+    "id": "w586",
+    "text": "Finished,",
+    "start": 233.125,
+    "end": 233.775
+  },
+  {
+    "id": "w587",
+    "text": "it's",
+    "start": 233.875,
+    "end": 234.087
+  },
+  {
+    "id": "w588",
+    "text": "worth",
+    "start": 234.087,
+    "end": 234.45
+  },
+  {
+    "id": "w589",
+    "text": "around",
+    "start": 234.45,
+    "end": 234.737
+  },
+  {
+    "id": "w590",
+    "text": "a",
+    "start": 234.737,
+    "end": 234.8
+  },
+  {
+    "id": "w591",
+    "text": "hundred",
+    "start": 234.8,
+    "end": 235.225
+  },
+  {
+    "id": "w592",
+    "text": "thousand.",
+    "start": 235.225,
+    "end": 236.025
+  },
+  {
+    "id": "w593",
+    "text": "Finally,",
+    "start": 237.325,
+    "end": 237.775
+  },
+  {
+    "id": "w594",
+    "text": "every",
+    "start": 237.85,
+    "end": 238.162
+  },
+  {
+    "id": "w595",
+    "text": "chip",
+    "start": 238.162,
+    "end": 238.387
+  },
+  {
+    "id": "w596",
+    "text": "on",
+    "start": 238.387,
+    "end": 238.487
+  },
+  {
+    "id": "w597",
+    "text": "the",
+    "start": 238.487,
+    "end": 238.575
+  },
+  {
+    "id": "w598",
+    "text": "wafer",
+    "start": 238.575,
+    "end": 238.95
+  },
+  {
+    "id": "w599",
+    "text": "is",
+    "start": 238.95,
+    "end": 239.1
+  },
+  {
+    "id": "w600",
+    "text": "tested.",
+    "start": 239.1,
+    "end": 239.875
+  },
+  {
+    "id": "w601",
+    "text": "A",
+    "start": 240.012,
+    "end": 240.125
+  },
+  {
+    "id": "w602",
+    "text": "stray",
+    "start": 240.125,
+    "end": 240.425
+  },
+  {
+    "id": "w603",
+    "text": "particle",
+    "start": 240.425,
+    "end": 240.925
+  },
+  {
+    "id": "w604",
+    "text": "can",
+    "start": 240.925,
+    "end": 241.1
+  },
+  {
+    "id": "w605",
+    "text": "knock",
+    "start": 241.1,
+    "end": 241.337
+  },
+  {
+    "id": "w606",
+    "text": "out",
+    "start": 241.337,
+    "end": 241.462
+  },
+  {
+    "id": "w607",
+    "text": "a",
+    "start": 241.462,
+    "end": 241.525
+  },
+  {
+    "id": "w608",
+    "text": "core",
+    "start": 241.525,
+    "end": 241.8
+  },
+  {
+    "id": "w609",
+    "text": "or",
+    "start": 241.8,
+    "end": 241.937
+  },
+  {
+    "id": "w610",
+    "text": "two,",
+    "start": 241.937,
+    "end": 242.3
+  },
+  {
+    "id": "w611",
+    "text": "so",
+    "start": 242.4,
+    "end": 242.6
+  },
+  {
+    "id": "w612",
+    "text": "chips",
+    "start": 242.6,
+    "end": 242.925
+  },
+  {
+    "id": "w613",
+    "text": "are",
+    "start": 242.925,
+    "end": 243.062
+  },
+  {
+    "id": "w614",
+    "text": "sorted",
+    "start": 243.062,
+    "end": 243.425
+  },
+  {
+    "id": "w615",
+    "text": "by",
+    "start": 243.425,
+    "end": 243.6
+  },
+  {
+    "id": "w616",
+    "text": "what",
+    "start": 243.6,
+    "end": 243.825
+  },
+  {
+    "id": "w617",
+    "text": "still",
+    "start": 243.825,
+    "end": 244.1
+  },
+  {
+    "id": "w618",
+    "text": "works.",
+    "start": 244.1,
+    "end": 244.825
+  },
+  {
+    "id": "w619",
+    "text": "Flawless",
+    "start": 244.95,
+    "end": 245.375
+  },
+  {
+    "id": "w620",
+    "text": "dies",
+    "start": 245.375,
+    "end": 245.75
+  },
+  {
+    "id": "w621",
+    "text": "become",
+    "start": 245.75,
+    "end": 246.137
+  },
+  {
+    "id": "w622",
+    "text": "top-tier",
+    "start": 246.137,
+    "end": 246.65
+  },
+  {
+    "id": "w623",
+    "text": "processors.",
+    "start": 246.65,
+    "end": 247.7
+  },
+  {
+    "id": "w624",
+    "text": "Slightly",
+    "start": 247.862,
+    "end": 248.312
+  },
+  {
+    "id": "w625",
+    "text": "damaged",
+    "start": 248.312,
+    "end": 248.825
+  },
+  {
+    "id": "w626",
+    "text": "ones",
+    "start": 248.825,
+    "end": 249.075
+  },
+  {
+    "id": "w627",
+    "text": "are",
+    "start": 249.075,
+    "end": 249.212
+  },
+  {
+    "id": "w628",
+    "text": "sold",
+    "start": 249.212,
+    "end": 249.625
+  },
+  {
+    "id": "w629",
+    "text": "as",
+    "start": 249.625,
+    "end": 249.787
+  },
+  {
+    "id": "w630",
+    "text": "cheaper",
+    "start": 249.787,
+    "end": 250.175
+  },
+  {
+    "id": "w631",
+    "text": "models.",
+    "start": 250.175,
+    "end": 250.975
+  },
+  {
+    "id": "w632",
+    "text": "Each",
+    "start": 251.112,
+    "end": 251.425
+  },
+  {
+    "id": "w633",
+    "text": "die",
+    "start": 251.425,
+    "end": 251.725
+  },
+  {
+    "id": "w634",
+    "text": "is",
+    "start": 251.725,
+    "end": 251.875
+  },
+  {
+    "id": "w635",
+    "text": "then",
+    "start": 251.875,
+    "end": 252.112
+  },
+  {
+    "id": "w636",
+    "text": "cut",
+    "start": 252.112,
+    "end": 252.387
+  },
+  {
+    "id": "w637",
+    "text": "free",
+    "start": 252.387,
+    "end": 252.625
+  },
+  {
+    "id": "w638",
+    "text": "with",
+    "start": 252.625,
+    "end": 252.762
+  },
+  {
+    "id": "w639",
+    "text": "a",
+    "start": 252.762,
+    "end": 252.85
+  },
+  {
+    "id": "w640",
+    "text": "laser,",
+    "start": 252.85,
+    "end": 253.5
+  },
+  {
+    "id": "w641",
+    "text": "flipped",
+    "start": 253.612,
+    "end": 253.912
+  },
+  {
+    "id": "w642",
+    "text": "onto",
+    "start": 253.912,
+    "end": 254.15
+  },
+  {
+    "id": "w643",
+    "text": "a",
+    "start": 254.15,
+    "end": 254.262
+  },
+  {
+    "id": "w644",
+    "text": "circuit",
+    "start": 254.262,
+    "end": 254.6
+  },
+  {
+    "id": "w645",
+    "text": "board,",
+    "start": 254.6,
+    "end": 255.1
+  },
+  {
+    "id": "w646",
+    "text": "and",
+    "start": 255.2,
+    "end": 255.337
+  },
+  {
+    "id": "w647",
+    "text": "capped",
+    "start": 255.337,
+    "end": 255.7
+  },
+  {
+    "id": "w648",
+    "text": "with",
+    "start": 255.7,
+    "end": 255.837
+  },
+  {
+    "id": "w649",
+    "text": "a",
+    "start": 255.837,
+    "end": 255.925
+  },
+  {
+    "id": "w650",
+    "text": "metal",
+    "start": 255.925,
+    "end": 256.25
+  },
+  {
+    "id": "w651",
+    "text": "heat",
+    "start": 256.25,
+    "end": 256.475
+  },
+  {
+    "id": "w652",
+    "text": "spreader.",
+    "start": 256.475,
+    "end": 257.325
+  },
+  {
+    "id": "w653",
+    "text": "Now",
+    "start": 257.525,
+    "end": 257.912
+  },
+  {
+    "id": "w654",
+    "text": "it's",
+    "start": 257.912,
+    "end": 258.125
+  },
+  {
+    "id": "w655",
+    "text": "ready",
+    "start": 258.125,
+    "end": 258.375
+  },
+  {
+    "id": "w656",
+    "text": "for",
+    "start": 258.375,
+    "end": 258.487
+  },
+  {
+    "id": "w657",
+    "text": "your",
+    "start": 258.487,
+    "end": 258.6
+  },
+  {
+    "id": "w658",
+    "text": "computer.",
+    "start": 258.6,
+    "end": 259.375
+  },
+  {
+    "id": "w659",
+    "text": "Three",
+    "start": 260.65,
+    "end": 260.875
+  },
+  {
+    "id": "w660",
+    "text": "months.",
+    "start": 260.875,
+    "end": 261.55
+  },
+  {
+    "id": "w661",
+    "text": "A",
+    "start": 261.663,
+    "end": 261.788
+  },
+  {
+    "id": "w662",
+    "text": "thousand",
+    "start": 261.788,
+    "end": 262.25
+  },
+  {
+    "id": "w663",
+    "text": "steps.",
+    "start": 262.25,
+    "end": 263.025
+  },
+  {
+    "id": "w664",
+    "text": "Eighty",
+    "start": 263.163,
+    "end": 263.45
+  },
+  {
+    "id": "w665",
+    "text": "layers",
+    "start": 263.45,
+    "end": 263.9
+  },
+  {
+    "id": "w666",
+    "text": "of",
+    "start": 263.9,
+    "end": 264.062
+  },
+  {
+    "id": "w667",
+    "text": "light,",
+    "start": 264.062,
+    "end": 264.525
+  },
+  {
+    "id": "w668",
+    "text": "glass,",
+    "start": 264.637,
+    "end": 265.1
+  },
+  {
+    "id": "w669",
+    "text": "and",
+    "start": 265.15,
+    "end": 265.275
+  },
+  {
+    "id": "w670",
+    "text": "copper.",
+    "start": 265.275,
+    "end": 266.025
+  },
+  {
+    "id": "w671",
+    "text": "All",
+    "start": 266.163,
+    "end": 266.375
+  },
+  {
+    "id": "w672",
+    "text": "to",
+    "start": 266.375,
+    "end": 266.475
+  },
+  {
+    "id": "w673",
+    "text": "build",
+    "start": 266.475,
+    "end": 266.762
+  },
+  {
+    "id": "w674",
+    "text": "twenty-six",
+    "start": 266.762,
+    "end": 267.413
+  },
+  {
+    "id": "w675",
+    "text": "billion",
+    "start": 267.413,
+    "end": 267.9
+  },
+  {
+    "id": "w676",
+    "text": "switches",
+    "start": 267.9,
+    "end": 268.4
+  },
+  {
+    "id": "w677",
+    "text": "on",
+    "start": 268.4,
+    "end": 268.512
+  },
+  {
+    "id": "w678",
+    "text": "a",
+    "start": 268.512,
+    "end": 268.625
+  },
+  {
+    "id": "w679",
+    "text": "sliver",
+    "start": 268.625,
+    "end": 269.05
+  },
+  {
+    "id": "w680",
+    "text": "of",
+    "start": 269.05,
+    "end": 269.212
+  },
+  {
+    "id": "w681",
+    "text": "silicon",
+    "start": 269.212,
+    "end": 269.775
+  },
+  {
+    "id": "w682",
+    "text": "smaller",
+    "start": 269.775,
+    "end": 270.275
+  },
+  {
+    "id": "w683",
+    "text": "than",
+    "start": 270.275,
+    "end": 270.4
+  },
+  {
+    "id": "w684",
+    "text": "a",
+    "start": 270.4,
+    "end": 270.475
+  },
+  {
+    "id": "w685",
+    "text": "stamp.",
+    "start": 270.475,
+    "end": 271.275
+  },
+  {
+    "id": "w686",
+    "text": "Few",
+    "start": 271.475,
+    "end": 271.725
+  },
+  {
+    "id": "w687",
+    "text": "things",
+    "start": 271.725,
+    "end": 272.025
+  },
+  {
+    "id": "w688",
+    "text": "people",
+    "start": 272.025,
+    "end": 272.375
+  },
+  {
+    "id": "w689",
+    "text": "make",
+    "start": 272.375,
+    "end": 272.65
+  },
+  {
+    "id": "w690",
+    "text": "are",
+    "start": 272.65,
+    "end": 272.75
+  },
+  {
+    "id": "w691",
+    "text": "more",
+    "start": 272.75,
+    "end": 272.975
+  },
+  {
+    "id": "w692",
+    "text": "precise,",
+    "start": 272.975,
+    "end": 273.775
+  },
+  {
+    "id": "w693",
+    "text": "and",
+    "start": 273.887,
+    "end": 274.025
+  },
+  {
+    "id": "w694",
+    "text": "dozens",
+    "start": 274.025,
+    "end": 274.363
+  },
+  {
+    "id": "w695",
+    "text": "of",
+    "start": 274.363,
+    "end": 274.438
+  },
+  {
+    "id": "w696",
+    "text": "them",
+    "start": 274.438,
+    "end": 274.663
+  },
+  {
+    "id": "w697",
+    "text": "are",
+    "start": 274.663,
+    "end": 274.8
+  },
+  {
+    "id": "w698",
+    "text": "in",
+    "start": 274.8,
+    "end": 274.887
+  },
+  {
+    "id": "w699",
+    "text": "your",
+    "start": 274.887,
+    "end": 275.0
+  },
+  {
+    "id": "w700",
+    "text": "pocket",
+    "start": 275.0,
+    "end": 275.4
+  },
+  {
+    "id": "w701",
+    "text": "right",
+    "start": 275.4,
+    "end": 275.6
+  },
+  {
+    "id": "w702",
+    "text": "now.",
+    "start": 275.6,
+    "end": 276.2
+  }
+]

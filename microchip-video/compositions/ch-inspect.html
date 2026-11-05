@@ -1,0 +1,25 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-inspect" data-width="1920" data-height="1080">
+    <div id="inspect-tag" class="tag"><span class="tag-n">08</span><span class="tag-t">Clean and inspect</span><div class="tag-line"></div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-inspect"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("inspect", w, n);
+      const te = (w, n) => OV.te("inspect", w, n);
+      const END = OV.len("inspect");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      tl.set({}, {}, END);
+      window.__timelines["ch-inspect"] = tl;
+    })();
+  </script>
+</template>

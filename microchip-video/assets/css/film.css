@@ -1,0 +1,135 @@
+:root {
+  --color-ground: #05070b;
+  --color-ink: #e9eef2;
+  --color-accent: #e0894b;
+  --font-display: "Outfit";
+  --font-data: "IBM Plex Mono";
+  /* the six machine families, colour-coded through the whole film */
+  --fam-litho: #ffb22e;
+  --fam-dep: #2ec4b6;
+  --fam-remove: #ff5e5b;
+  --fam-modify: #9b7bff;
+  --fam-clean: #4cc9f0;
+  --fam-inspect: #a7e163;
+  --dim: rgba(233, 238, 242, 0.62);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  background: var(--color-ground);
+  color: var(--color-ink);
+  font-family: var(--font-display), sans-serif;
+}
+
+/* 3D-anchored labels drawn by World (assets/js/core.js) */
+.w-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  padding: 10px 16px 11px;
+  background: rgba(5, 7, 11, 0.72);
+  border-left: 3px solid var(--lc);
+  opacity: 0;
+  will-change: transform, opacity;
+}
+.w-label-k {
+  font-family: var(--font-data), monospace;
+  font-weight: 500;
+  font-size: 28px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--lc);
+}
+.w-label-v {
+  font-family: var(--font-display), sans-serif;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 1.1;
+  margin-top: 2px;
+  color: var(--color-ink);
+}
+.w-label.big .w-label-v {
+  font-size: 54px;
+}
+
+/* ---------- chapter overlays ---------- */
+.tag {
+  position: absolute;
+  left: 96px;
+  top: 78px;
+  display: flex;
+  align-items: baseline;
+  gap: 18px;
+  opacity: 0;
+}
+.tag-n {
+  font-family: var(--font-data), monospace;
+  font-weight: 500;
+  font-size: 30px;
+  letter-spacing: 0.1em;
+  color: var(--color-accent);
+}
+.tag-t {
+  font-family: var(--font-display), sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+.tag-line {
+  position: absolute;
+  left: 0;
+  top: 58px;
+  width: 340px;
+  height: 2px;
+  background: var(--color-accent);
+  transform-origin: 0 50%;
+}
+.stat {
+  position: absolute;
+  left: 96px;
+  bottom: 96px;
+  opacity: 0;
+}
+.stat.right {
+  left: auto;
+  right: 96px;
+  text-align: right;
+}
+.stat-v {
+  font-family: var(--font-display), sans-serif;
+  font-weight: 700;
+  font-size: 104px;
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+  color: var(--color-ink);
+  white-space: nowrap;
+}
+.stat-v .unit {
+  font-weight: 500;
+  font-size: 52px;
+  letter-spacing: -0.01em;
+  margin-left: 14px;
+  color: var(--dim);
+}
+.stat-k {
+  font-family: var(--font-data), monospace;
+  font-weight: 500;
+  font-size: 28px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-top: 14px;
+}
+.num {
+  display: inline-block;
+  font-variant-numeric: tabular-nums;
+}

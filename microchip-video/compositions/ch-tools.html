@@ -1,0 +1,25 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-tools" data-width="1920" data-height="1080">
+    <div id="tools-tag" class="tag"><span class="tag-n">07</span><span class="tag-t">Add, remove, modify</span><div class="tag-line"></div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-tools"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("tools", w, n);
+      const te = (w, n) => OV.te("tools", w, n);
+      const END = OV.len("tools");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      tl.set({}, {}, END);
+      window.__timelines["ch-tools"] = tl;
+    })();
+  </script>
+</template>

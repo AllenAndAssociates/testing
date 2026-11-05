@@ -1,0 +1,28 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-inside" data-width="1920" data-height="1080">
+    <div id="inside-tag" class="tag"><span class="tag-n">01</span><span class="tag-t">Inside the chip</span><div class="tag-line"></div></div>
+    <div id="inside-26" class="stat "><div class="stat-v"><span id="inside-26n" class="num">0</span><span class="unit">billion</span></div><div class="stat-k">transistors on one die</div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-inside"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("inside", w, n);
+      const te = (w, n) => OV.te("inside", w, n);
+      const END = OV.len("inside");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      OV.card(tl, $("#inside-26"), t("twenty-six") - 0.1, t("dive") - 0.1);
+      OV.count(tl, $("#inside-26n"), 0, 26, t("twenty-six"), 1.2);
+      tl.set({}, {}, END);
+      window.__timelines["ch-inside"] = tl;
+    })();
+  </script>
+</template>

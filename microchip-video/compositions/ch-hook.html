@@ -1,0 +1,64 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    #hook-title {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 400px;
+      text-align: center;
+    }
+    #hook-kicker {
+      font-family: var(--font-data), monospace;
+      font-weight: 500;
+      font-size: 30px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--color-accent);
+      opacity: 0;
+    }
+    #hook-h1 {
+      font-family: var(--font-display), sans-serif;
+      font-weight: 700;
+      font-size: 128px;
+      line-height: 1;
+      margin-top: 18px;
+      letter-spacing: -0.025em;
+      color: var(--color-ink);
+      text-shadow: 0 6px 40px rgba(0, 0, 0, 0.6);
+      opacity: 0;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-hook" data-width="1920" data-height="1080">
+    <div id="hook-62" class="stat "><div class="stat-v"><span id="hook-62n" class="num">0</span><span class="unit">microchips</span></div><div class="stat-k">inside one smartphone</div></div>
+    <div id="hook-90" class="stat right"><div class="stat-v"><span id="hook-90n" class="num">0</span><span class="unit">billion</span></div><div class="stat-k">transistors between them</div></div>
+    <div id="hook-title">
+      <div id="hook-kicker">From quartz to processor</div>
+      <h1 id="hook-h1">How microchips are made</h1>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-hook"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("hook", w, n);
+      const te = (w, n) => OV.te("hook", w, n);
+      const END = OV.len("hook");
+      const tl = gsap.timeline({ paused: true });
+      OV.card(tl, $("#hook-62"), t("sixty-two") - 0.15, t("each") - 0.2);
+      OV.count(tl, $("#hook-62n"), 0, 62, t("sixty-two") - 0.1, 1.6);
+      OV.card(tl, $("#hook-90"), t("ninety") - 0.15, t("each") - 0.2);
+      OV.count(tl, $("#hook-90n"), 0, 90, t("ninety") - 0.1, 1.1);
+      const h = t("heres") - 0.1;
+      tl.fromTo($("#hook-kicker"), { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, h);
+      tl.fromTo($("#hook-h1"), { opacity: 0, y: 30, scale: 1.04 }, { opacity: 1, y: 0, scale: 1, duration: 0.9, ease: "power3.out" }, h + 0.08);
+      tl.to($("#hook-title"), { opacity: 0, duration: 0.3, ease: "power2.in" }, END - 0.3);
+      tl.set({}, {}, END);
+      window.__timelines["ch-hook"] = tl;
+    })();
+  </script>
+</template>

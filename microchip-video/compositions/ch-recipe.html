@@ -1,0 +1,85 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    #rc-bar {
+      position: absolute;
+      left: 80px;
+      right: 80px;
+      bottom: 64px;
+      display: flex;
+      gap: 10px;
+      opacity: 0;
+    }
+    .rc-step {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 10px;
+      border-top: 3px solid var(--fc);
+      background: rgba(5, 7, 11, 0.7);
+      opacity: 0.35;
+    }
+    .rc-i {
+      font-family: var(--font-data), monospace;
+      font-weight: 600;
+      font-size: 28px;
+      width: 44px;
+      height: 44px;
+      line-height: 44px;
+      text-align: center;
+      border: 2px solid var(--fc);
+      border-radius: 50%;
+      color: rgba(233, 238, 242, 0.7);
+      flex: none;
+    }
+    .rc-n {
+      font-family: var(--font-display), sans-serif;
+      font-weight: 600;
+      font-size: 28px;
+      color: var(--color-ink);
+      white-space: nowrap;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-recipe" data-width="1920" data-height="1080">
+    <div id="recipe-tag" class="tag"><span class="tag-n">03</span><span class="tag-t">One layer, eight steps</span><div class="tag-line"></div></div>
+    <div id="rc-bar">
+      <div id="rc-s0" class="rc-step" style="--fc: var(--fam-dep)"><span class="rc-i">1</span><span class="rc-n">Deposit oxide</span></div>
+      <div id="rc-s1" class="rc-step" style="--fc: var(--fam-litho)"><span class="rc-i">2</span><span class="rc-n">Coat resist</span></div>
+      <div id="rc-s2" class="rc-step" style="--fc: var(--fam-litho)"><span class="rc-i">3</span><span class="rc-n">Expose</span></div>
+      <div id="rc-s3" class="rc-step" style="--fc: var(--fam-litho)"><span class="rc-i">4</span><span class="rc-n">Develop</span></div>
+      <div id="rc-s4" class="rc-step" style="--fc: var(--fam-remove)"><span class="rc-i">5</span><span class="rc-n">Etch</span></div>
+      <div id="rc-s5" class="rc-step" style="--fc: var(--fam-litho)"><span class="rc-i">6</span><span class="rc-n">Strip resist</span></div>
+      <div id="rc-s6" class="rc-step" style="--fc: var(--fam-dep)"><span class="rc-i">7</span><span class="rc-n">Fill copper</span></div>
+      <div id="rc-s7" class="rc-step" style="--fc: var(--fam-remove)"><span class="rc-i">8</span><span class="rc-n">Polish</span></div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-recipe"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("recipe", w, n);
+      const te = (w, n) => OV.te("recipe", w, n);
+      const END = OV.len("recipe");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root, 4.2);
+      const words = ["coat", "spin", "shine", "wash", "etch", "strip", "flood", "polish"];
+      tl.fromTo($("#rc-bar"), { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, t("coat") - 0.6);
+      words.forEach((w, i) => {
+        const el = $("#rc-s" + i);
+        const a = t(w) - 0.05;
+        const b = i < 7 ? t(words[i + 1]) - 0.05 : t("one");
+        tl.fromTo(el, { opacity: 0.35, y: 0 }, { opacity: 1, y: -10, duration: 0.3, ease: "power2.out" }, a);
+        tl.fromTo(el.querySelector(".rc-i"), { backgroundColor: "rgba(255,255,255,0)", color: "rgba(233,238,242,0.7)" }, { backgroundColor: "var(--fc)", color: "#05070b", duration: 0.25 }, a);
+        tl.to(el, { opacity: 0.62, y: 0, duration: 0.3, ease: "power2.inOut" }, b);
+      });
+      tl.to($("#rc-bar"), { opacity: 0, y: 20, duration: 0.4, ease: "power2.in" }, t("swap") + 0.6);
+      tl.set({}, {}, END);
+      window.__timelines["ch-recipe"] = tl;
+    })();
+  </script>
+</template>

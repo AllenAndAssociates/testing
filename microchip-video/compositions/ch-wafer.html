@@ -1,0 +1,25 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-wafer" data-width="1920" data-height="1080">
+    <div id="wafer-tag" class="tag"><span class="tag-n">09</span><span class="tag-t">Before the fab</span><div class="tag-line"></div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-wafer"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("wafer", w, n);
+      const te = (w, n) => OV.te("wafer", w, n);
+      const END = OV.len("wafer");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      tl.set({}, {}, END);
+      window.__timelines["ch-wafer"] = tl;
+    })();
+  </script>
+</template>

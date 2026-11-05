@@ -1,0 +1,69 @@
+{
+  "voice": "af_heart",
+  "speed": 1.0,
+  "gap_after_chapter": 0.75,
+  "lead_in": 0.6,
+  "tail": 3.0,
+  "chapters": [
+    {
+      "id": "hook",
+      "title": "Printed with light",
+      "text": "Inside a modern smartphone are sixty-two microchips, holding about ninety billion transistors between them. Each transistor is a switch so small that more than a thousand would fit side by side across a single human hair. None of them were assembled. They were printed onto silicon, with light. Here's how."
+    },
+    {
+      "id": "inside",
+      "title": "Inside the die",
+      "text": "Open a desktop computer and lift the lid off its processor. Underneath is a silicon die smaller than a postage stamp, carrying twenty-six billion transistors, organized into twenty-four cores. Dive into one core, and you fall through a city of copper wiring, seventeen layers deep. Fine local wires at the bottom, wide global highways at the top. And beneath it all are the transistors themselves: fins of silicon just six nanometers wide."
+    },
+    {
+      "id": "challenge",
+      "title": "Eighty layers",
+      "text": "To build that, a factory stacks about eighty patterned layers, each one aligned to the layer beneath it within a few nanometers. The recipe runs to roughly nine hundred and forty steps, and takes three months. A single speck of dust in the wrong place can ruin a chip."
+    },
+    {
+      "id": "recipe",
+      "title": "One layer",
+      "text": "Yet almost every layer follows the same short recipe. First, coat the wafer in a thin, insulating film of silicon dioxide. Spin on a light-sensitive coating, called photoresist. Shine ultraviolet light through a stencil, the photomask. Wash away the resist the light touched, leaving a pattern. Etch that pattern down into the oxide. Strip off the leftover resist. Flood the trenches with copper. Then polish the surface perfectly flat, until only copper wires, set in glass, remain. One layer, done. Swap the mask, and go again."
+    },
+    {
+      "id": "loop",
+      "title": "Six families",
+      "text": "Draw that recipe as a loop, and six families of machines appear. Lithography patterns. Deposition adds material. Etching and polishing take it away. Ion implanters modify the silicon itself. Washers clean, and metrology tools inspect. Go around the loop eighty times, and a wafer has made close to a thousand stops."
+    },
+    {
+      "id": "fab",
+      "title": "The fab",
+      "text": "Those stops happen inside a fab: a clean room as large as eight football fields, filled with hundreds of machines, some costing a hundred and seventy million dollars each. Wafers, three hundred millimeters across, ride in sealed pods of twenty-five, carried on overhead rails from tool to tool. With four hundred and thirty-five tools on the floor, this fab finishes fifty thousand wafers a month."
+    },
+    {
+      "id": "litho",
+      "title": "Lithography",
+      "text": "The most important stop is lithography. Ultraviolet light shines through the photomask, then through lenses that shrink the image four times. The wafer steps beneath the beam, exposure after exposure, until all two hundred and thirty chips carry the pattern. A single processor needs eighty different masks, each costing around three hundred thousand dollars."
+    },
+    {
+      "id": "tools",
+      "title": "Add, remove, modify",
+      "text": "Deposition tools lay down metals, insulators, and crystalline silicon, a little like spray paint through a stencil. Plasma etchers carve straight down through whatever the mask leaves exposed. Chemical mechanical polishing grinds the surface flat, ready for the next layer. And at the very bottom, ion implanters fire boron or phosphorus deep into the silicon, roughly one atom for every ten thousand, to create the regions that let transistors switch. A quick bake, called an anneal, heals the crystal afterward."
+    },
+    {
+      "id": "inspect",
+      "title": "Clean and inspect",
+      "text": "Between steps, wafers are rinsed in ultra-pure water and dried with nitrogen. Electron microscopes scan them for flaws, because a defect caught today is far cheaper than one discovered three months from now."
+    },
+    {
+      "id": "wafer",
+      "title": "Before the fab",
+      "text": "The wafers themselves begin as quartz rock, refined into ultra-pure silicon and grown into a single, flawless crystal. That crystal is sliced into discs less than a millimeter thick, each with a tiny notch marking its crystal direction. A blank wafer costs about a hundred dollars. Finished, it's worth around a hundred thousand."
+    },
+    {
+      "id": "package",
+      "title": "After the fab",
+      "text": "Finally, every chip on the wafer is tested. A stray particle can knock out a core or two, so chips are sorted by what still works. Flawless dies become top-tier processors. Slightly damaged ones are sold as cheaper models. Each die is then cut free with a laser, flipped onto a circuit board, and capped with a metal heat spreader. Now it's ready for your computer."
+    },
+    {
+      "id": "outro",
+      "title": "In your pocket",
+      "text": "Three months. A thousand steps. Eighty layers of light, glass, and copper. All to build twenty-six billion switches on a sliver of silicon smaller than a stamp. Few things people make are more precise, and dozens of them are in your pocket right now."
+    }
+  ]
+}

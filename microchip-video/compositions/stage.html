@@ -1,0 +1,62 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+    #stage-canvas {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+    }
+    #stage-leaders {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+      pointer-events: none;
+    }
+    #stage-labels {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    #stage-vignette {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 75% 70% at 50% 50%, rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.55) 100%);
+      pointer-events: none;
+    }
+    #stage-fade {
+      position: absolute;
+      inset: 0;
+      background: #000;
+      opacity: 1;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="stage" data-width="1920" data-height="1080" data-layout-allow-overlap>
+    <canvas id="stage-canvas" width="1920" height="1080"></canvas>
+    <div id="stage-vignette" data-layout-ignore></div>
+    <svg id="stage-leaders" viewBox="0 0 1920 1080" data-layout-ignore></svg>
+    <div id="stage-labels" data-layout-allow-overflow data-layout-allow-overlap></div>
+    <div id="stage-fade" data-layout-ignore></div>
+  </div>
+  <script>
+    World.mount(
+      document.getElementById("stage-canvas"),
+      document.getElementById("stage-labels"),
+      document.getElementById("stage-leaders"),
+      document.getElementById("stage-fade")
+    );
+    window.addEventListener("hf-seek", (e) => World.render(e.detail.time));
+    World.render(0);
+    const stageTl = gsap.timeline({ paused: true });
+    stageTl.set({}, {}, window.VO.duration);
+    window.__timelines["stage"] = stageTl;
+  </script>
+</template>

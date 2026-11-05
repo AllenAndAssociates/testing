@@ -1,0 +1,31 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-fab" data-width="1920" data-height="1080">
+    <div id="fab-tag" class="tag"><span class="tag-n">05</span><span class="tag-t">Inside the fab</span><div class="tag-line"></div></div>
+    <div id="fab-435" class="stat "><div class="stat-v"><span id="fab-435n" class="num">0</span><span class="unit">tools</span></div><div class="stat-k">on one clean-room floor</div></div>
+    <div id="fab-50k" class="stat right"><div class="stat-v"><span id="fab-50n" class="num">0</span>,000<span class="unit">wafers</span></div><div class="stat-k">finished every month</div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-fab"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("fab", w, n);
+      const te = (w, n) => OV.te("fab", w, n);
+      const END = OV.len("fab");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      OV.card(tl, $("#fab-435"), t("four") - 0.1, END - 0.1);
+      OV.count(tl, $("#fab-435n"), 0, 435, t("four"), 1.3);
+      OV.card(tl, $("#fab-50k"), t("fifty") - 0.1, END - 0.1);
+      OV.count(tl, $("#fab-50n"), 0, 50, t("fifty"), 1.0);
+      tl.set({}, {}, END);
+      window.__timelines["ch-fab"] = tl;
+    })();
+  </script>
+</template>

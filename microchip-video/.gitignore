@@ -1,0 +1,6 @@
+.hyperframes/
+node_modules/
+renders/*
+!renders/how-microchips-are-made.mp4
+assets/vo/vo_raw.wav
+assets/music/bed_raw.wav

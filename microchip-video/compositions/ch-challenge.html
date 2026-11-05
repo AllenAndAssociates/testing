@@ -1,0 +1,30 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-challenge" data-width="1920" data-height="1080">
+    <div id="challenge-tag" class="tag"><span class="tag-n">02</span><span class="tag-t">Eighty layers</span><div class="tag-line"></div></div>
+    <div id="ch-940" class="stat "><div class="stat-v">≈ <span id="ch-940n" class="num">0</span><span class="unit">steps</span></div><div class="stat-k">in the recipe</div></div>
+    <div id="ch-3" class="stat right"><div class="stat-v">3<span class="unit">months</span></div><div class="stat-k">from bare wafer to finished chips</div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-challenge"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("challenge", w, n);
+      const te = (w, n) => OV.te("challenge", w, n);
+      const END = OV.len("challenge");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      OV.card(tl, $("#ch-940"), t("nine") - 0.1, t("speck") - 0.3);
+      OV.count(tl, $("#ch-940n"), 0, 940, t("nine"), 1.4);
+      OV.card(tl, $("#ch-3"), t("three") - 0.1, t("speck") - 0.3);
+      tl.set({}, {}, END);
+      window.__timelines["ch-challenge"] = tl;
+    })();
+  </script>
+</template>

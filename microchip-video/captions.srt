@@ -1,0 +1,531 @@
+1
+00:00:00,950 --> 00:00:03,405
+Inside a modern smartphone are sixty-two
+
+2
+00:00:03,425 --> 00:00:06,055
+microchips, holding about ninety billion
+
+3
+00:00:06,075 --> 00:00:07,942
+transistors between them.
+
+4
+00:00:07,962 --> 00:00:10,542
+Each transistor is a switch so small that
+
+5
+00:00:10,562 --> 00:00:12,568
+more than a thousand would fit side by
+
+6
+00:00:12,588 --> 00:00:15,025
+side across a single human hair.
+
+7
+00:00:15,050 --> 00:00:16,605
+None of them were assembled.
+
+8
+00:00:16,625 --> 00:00:18,380
+They were printed onto silicon, with
+
+9
+00:00:18,400 --> 00:00:19,093
+light.
+
+10
+00:00:19,113 --> 00:00:20,175
+Here's how.
+
+11
+00:00:21,300 --> 00:00:23,380
+Open a desktop computer and lift the lid
+
+12
+00:00:23,400 --> 00:00:24,805
+off its processor.
+
+13
+00:00:24,825 --> 00:00:26,955
+Underneath is a silicon die smaller than a
+
+14
+00:00:26,975 --> 00:00:29,405
+postage stamp, carrying twenty-six billion
+
+15
+00:00:29,425 --> 00:00:31,680
+transistors, organized into twenty-four
+
+16
+00:00:31,700 --> 00:00:32,643
+cores.
+
+17
+00:00:32,663 --> 00:00:34,693
+Dive into one core, and you fall through a
+
+18
+00:00:34,713 --> 00:00:37,105
+city of copper wiring, seventeen layers
+
+19
+00:00:37,125 --> 00:00:37,930
+deep.
+
+20
+00:00:37,950 --> 00:00:40,230
+Fine local wires at the bottom, wide
+
+21
+00:00:40,250 --> 00:00:41,980
+global highways at the top.
+
+22
+00:00:42,000 --> 00:00:43,955
+And beneath it all are the transistors
+
+23
+00:00:43,975 --> 00:00:45,018
+themselves:
+
+24
+00:00:45,038 --> 00:00:48,075
+fins of silicon just six nanometers wide.
+
+25
+00:00:49,200 --> 00:00:51,292
+To build that, a factory stacks about
+
+26
+00:00:51,312 --> 00:00:53,855
+eighty patterned layers, each one aligned
+
+27
+00:00:53,875 --> 00:00:55,455
+to the layer beneath it within a few
+
+28
+00:00:55,475 --> 00:00:56,742
+nanometers.
+
+29
+00:00:56,762 --> 00:00:58,967
+The recipe runs to roughly nine hundred
+
+30
+00:00:58,987 --> 00:01:01,817
+and forty steps, and takes three months.
+
+31
+00:01:01,837 --> 00:01:04,217
+A single speck of dust in the wrong place
+
+32
+00:01:04,237 --> 00:01:05,625
+can ruin a chip.
+
+33
+00:01:06,750 --> 00:01:08,767
+Yet almost every layer follows the same
+
+34
+00:01:08,787 --> 00:01:10,005
+short recipe.
+
+35
+00:01:10,025 --> 00:01:11,730
+First, coat the wafer in a thin,
+
+36
+00:01:11,750 --> 00:01:14,430
+insulating film of silicon dioxide.
+
+37
+00:01:14,450 --> 00:01:16,342
+Spin on a light-sensitive coating, called
+
+38
+00:01:16,362 --> 00:01:17,580
+photoresist.
+
+39
+00:01:17,600 --> 00:01:19,555
+Shine ultraviolet light through a stencil,
+
+40
+00:01:19,575 --> 00:01:20,742
+the photomask.
+
+41
+00:01:20,762 --> 00:01:22,455
+Wash away the resist the light touched,
+
+42
+00:01:22,475 --> 00:01:23,617
+leaving a pattern.
+
+43
+00:01:23,637 --> 00:01:25,892
+Etch that pattern down into the oxide.
+
+44
+00:01:25,912 --> 00:01:27,842
+Strip off the leftover resist.
+
+45
+00:01:27,862 --> 00:01:29,617
+Flood the trenches with copper.
+
+46
+00:01:29,637 --> 00:01:31,642
+Then polish the surface perfectly flat,
+
+47
+00:01:31,662 --> 00:01:33,955
+until only copper wires, set in glass,
+
+48
+00:01:33,975 --> 00:01:34,900
+remain.
+
+49
+00:01:34,925 --> 00:01:36,300
+One layer, done.
+
+50
+00:01:36,700 --> 00:01:38,625
+Swap the mask, and go again.
+
+51
+00:01:39,775 --> 00:01:41,655
+Draw that recipe as a loop, and six
+
+52
+00:01:41,675 --> 00:01:43,418
+families of machines appear.
+
+53
+00:01:43,438 --> 00:01:44,992
+Lithography patterns.
+
+54
+00:01:45,012 --> 00:01:47,042
+Deposition adds material.
+
+55
+00:01:47,062 --> 00:01:49,300
+Etching and polishing take it away.
+
+56
+00:01:49,325 --> 00:01:52,380
+Ion implanters modify the silicon itself.
+
+57
+00:01:52,400 --> 00:01:54,580
+Washers clean, and metrology tools
+
+58
+00:01:54,600 --> 00:01:55,592
+inspect.
+
+59
+00:01:55,612 --> 00:01:57,642
+Go around the loop eighty times, and a
+
+60
+00:01:57,662 --> 00:02:00,325
+wafer has made close to a thousand stops.
+
+61
+00:02:01,450 --> 00:02:03,542
+Those stops happen inside a fab:
+
+62
+00:02:03,562 --> 00:02:05,580
+a clean room as large as eight football
+
+63
+00:02:05,600 --> 00:02:08,105
+fields, filled with hundreds of machines,
+
+64
+00:02:08,125 --> 00:02:10,055
+some costing a hundred and seventy million
+
+65
+00:02:10,075 --> 00:02:11,350
+dollars each.
+
+66
+00:02:11,400 --> 00:02:14,142
+Wafers, three hundred millimeters across,
+
+67
+00:02:14,162 --> 00:02:16,418
+ride in sealed pods of twenty-five,
+
+68
+00:02:16,438 --> 00:02:18,568
+carried on overhead rails from tool to
+
+69
+00:02:18,588 --> 00:02:19,505
+tool.
+
+70
+00:02:19,525 --> 00:02:21,443
+With four hundred and thirty-five tools on
+
+71
+00:02:21,463 --> 00:02:23,668
+the floor, this fab finishes fifty
+
+72
+00:02:23,688 --> 00:02:25,350
+thousand wafers a month.
+
+73
+00:02:26,475 --> 00:02:29,092
+The most important stop is lithography.
+
+74
+00:02:29,112 --> 00:02:30,705
+Ultraviolet light shines through the
+
+75
+00:02:30,725 --> 00:02:33,130
+photomask, then through lenses that shrink
+
+76
+00:02:33,150 --> 00:02:34,943
+the image four times.
+
+77
+00:02:34,963 --> 00:02:37,630
+The wafer steps beneath the beam, exposure
+
+78
+00:02:37,650 --> 00:02:40,155
+after exposure, until all two hundred and
+
+79
+00:02:40,175 --> 00:02:42,292
+thirty chips carry the pattern.
+
+80
+00:02:42,312 --> 00:02:44,330
+A single processor needs eighty different
+
+81
+00:02:44,350 --> 00:02:46,930
+masks, each costing around three hundred
+
+82
+00:02:46,950 --> 00:02:48,250
+thousand dollars.
+
+83
+00:02:49,400 --> 00:02:51,455
+Deposition tools lay down metals,
+
+84
+00:02:51,475 --> 00:02:53,805
+insulators, and crystalline silicon, a
+
+85
+00:02:53,825 --> 00:02:56,267
+little like spray paint through a stencil.
+
+86
+00:02:56,287 --> 00:02:58,193
+Plasma etchers carve straight down through
+
+87
+00:02:58,213 --> 00:03:00,517
+whatever the mask leaves exposed.
+
+88
+00:03:00,537 --> 00:03:02,367
+Chemical mechanical polishing grinds the
+
+89
+00:03:02,387 --> 00:03:05,205
+surface flat, ready for the next layer.
+
+90
+00:03:05,225 --> 00:03:07,492
+And at the very bottom, ion implanters
+
+91
+00:03:07,512 --> 00:03:09,780
+fire boron or phosphorus deep into the
+
+92
+00:03:09,800 --> 00:03:12,380
+silicon, roughly one atom for every ten
+
+93
+00:03:12,400 --> 00:03:14,555
+thousand, to create the regions that let
+
+94
+00:03:14,575 --> 00:03:16,100
+transistors switch.
+
+95
+00:03:16,475 --> 00:03:18,580
+A quick bake, called an anneal, heals the
+
+96
+00:03:18,600 --> 00:03:19,950
+crystal afterward.
+
+97
+00:03:21,050 --> 00:03:23,292
+Between steps, wafers are rinsed in
+
+98
+00:03:23,312 --> 00:03:26,375
+ultra-pure water and dried with nitrogen.
+
+99
+00:03:26,400 --> 00:03:29,255
+Electron microscopes scan them for flaws,
+
+100
+00:03:29,275 --> 00:03:31,417
+because a defect caught today is far
+
+101
+00:03:31,437 --> 00:03:33,305
+cheaper than one discovered three months
+
+102
+00:03:33,325 --> 00:03:34,225
+from now.
+
+103
+00:03:35,300 --> 00:03:37,280
+The wafers themselves begin as quartz
+
+104
+00:03:37,300 --> 00:03:40,017
+rock, refined into ultra-pure silicon and
+
+105
+00:03:40,037 --> 00:03:43,017
+grown into a single, flawless crystal.
+
+106
+00:03:43,037 --> 00:03:45,280
+That crystal is sliced into discs less
+
+107
+00:03:45,300 --> 00:03:47,630
+than a millimeter thick, each with a tiny
+
+108
+00:03:47,650 --> 00:03:50,067
+notch marking its crystal direction.
+
+109
+00:03:50,087 --> 00:03:52,080
+A blank wafer costs about a hundred
+
+110
+00:03:52,100 --> 00:03:53,105
+dollars.
+
+111
+00:03:53,125 --> 00:03:55,205
+Finished, it's worth around a hundred
+
+112
+00:03:55,225 --> 00:03:56,175
+thousand.
+
+113
+00:03:57,325 --> 00:03:59,080
+Finally, every chip on the wafer is
+
+114
+00:03:59,100 --> 00:03:59,992
+tested.
+
+115
+00:04:00,012 --> 00:04:01,917
+A stray particle can knock out a core or
+
+116
+00:04:01,937 --> 00:04:04,080
+two, so chips are sorted by what still
+
+117
+00:04:04,100 --> 00:04:04,930
+works.
+
+118
+00:04:04,950 --> 00:04:07,842
+Flawless dies become top-tier processors.
+
+119
+00:04:07,862 --> 00:04:10,155
+Slightly damaged ones are sold as cheaper
+
+120
+00:04:10,175 --> 00:04:11,092
+models.
+
+121
+00:04:11,112 --> 00:04:13,592
+Each die is then cut free with a laser,
+
+122
+00:04:13,612 --> 00:04:15,680
+flipped onto a circuit board, and capped
+
+123
+00:04:15,700 --> 00:04:17,475
+with a metal heat spreader.
+
+124
+00:04:17,525 --> 00:04:19,525
+Now it's ready for your computer.
+
+125
+00:04:20,650 --> 00:04:21,643
+Three months.
+
+126
+00:04:21,663 --> 00:04:23,143
+A thousand steps.
+
+127
+00:04:23,163 --> 00:04:26,143
+Eighty layers of light, glass, and copper.
+
+128
+00:04:26,163 --> 00:04:28,380
+All to build twenty-six billion switches
+
+129
+00:04:28,400 --> 00:04:30,455
+on a sliver of silicon smaller than a
+
+130
+00:04:30,475 --> 00:04:31,425
+stamp.
+
+131
+00:04:31,475 --> 00:04:33,867
+Few things people make are more precise,
+
+132
+00:04:33,887 --> 00:04:35,380
+and dozens of them are in your pocket
+
+133
+00:04:35,400 --> 00:04:36,350
+right now.

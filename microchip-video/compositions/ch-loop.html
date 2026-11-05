@@ -1,0 +1,28 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-loop" data-width="1920" data-height="1080">
+    <div id="loop-tag" class="tag"><span class="tag-n">04</span><span class="tag-t">Six families of machines</span><div class="tag-line"></div></div>
+    <div id="loop-laps" class="stat "><div class="stat-v"><span id="loop-lapn" class="num">0</span><span class="unit">laps</span></div><div class="stat-k">≈ 1,000 stops for one wafer</div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-loop"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("loop", w, n);
+      const te = (w, n) => OV.te("loop", w, n);
+      const END = OV.len("loop");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      OV.card(tl, $("#loop-laps"), t("around") - 0.1, END - 0.2);
+      OV.count(tl, $("#loop-lapn"), 0, 80, t("around"), te("stops") - t("around") + 0.5, "power1.in");
+      tl.set({}, {}, END);
+      window.__timelines["ch-loop"] = tl;
+    })();
+  </script>
+</template>

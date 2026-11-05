@@ -1,0 +1,28 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-litho" data-width="1920" data-height="1080">
+    <div id="litho-tag" class="tag"><span class="tag-n">06</span><span class="tag-t">Lithography</span><div class="tag-line"></div></div>
+    <div id="litho-230" class="stat "><div class="stat-v"><span id="litho-230n" class="num">0</span><span class="unit">chips</span></div><div class="stat-k">patterned on one wafer</div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-litho"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("litho", w, n);
+      const te = (w, n) => OV.te("litho", w, n);
+      const END = OV.len("litho");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      OV.card(tl, $("#litho-230"), t("steps") - 0.2, t("single") - 0.3);
+      OV.count(tl, $("#litho-230n"), 0, 230, t("steps"), te("pattern") + 0.2 - t("steps"), "power1.in");
+      tl.set({}, {}, END);
+      window.__timelines["ch-litho"] = tl;
+    })();
+  </script>
+</template>

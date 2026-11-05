@@ -1,0 +1,25 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+  </style>
+  <div id="root" data-composition-id="ch-package" data-width="1920" data-height="1080">
+    <div id="package-tag" class="tag"><span class="tag-n">10</span><span class="tag-t">After the fab</span><div class="tag-line"></div></div>
+  </div>
+  <script>
+    (function () {
+      const root = document.querySelector('[data-composition-id="ch-package"]');
+      const $ = (s) => root.querySelector(s);
+      const t = (w, n) => OV.t("package", w, n);
+      const te = (w, n) => OV.te("package", w, n);
+      const END = OV.len("package");
+      const tl = gsap.timeline({ paused: true });
+      OV.tag(tl, root);
+      tl.set({}, {}, END);
+      window.__timelines["ch-package"] = tl;
+    })();
+  </script>
+</template>
